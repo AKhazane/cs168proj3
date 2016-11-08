@@ -1,0 +1,190 @@
+{
+    "twitter.com": [
+        [
+            {
+                "ip": "169.229.14.129",
+                "ASN": "25",
+                "name": "inst-labs.CS.Berkeley.EDU"
+            }
+        ],
+        [
+            {
+                "ip": "169.229.63.228",
+                "ASN": "25",
+                "name": "soda-288-core-228.EECS.Berkeley.EDU"
+            }
+        ],
+        [
+            {
+                "ip": "169.229.59.241",
+                "ASN": "25",
+                "name": "edge-10g-soda.EECS.Berkeley.EDU"
+            }
+        ],
+        [
+            {
+                "ip": "128.32.255.53",
+                "ASN": "25/42/23",
+                "name": "t1-2.inr-201-sut.berkeley.edu"
+            },
+            {
+                "ip": "128.32.255.57",
+                "ASN": "25",
+                "name": "t1-2.inr-202-reccev.berkeley.edu"
+            }
+        ],
+        [
+            {
+                "ip": "128.32.0.64",
+                "ASN": "None",
+                "name": "xe-0-2-0.inr-001-sut.berkeley.edu"
+            },
+            {
+                "ip": "128.32.0.80",
+                "ASN": "25/32",
+                "name": "xe-0-2-0.inr-001-sut.berkeley.edu"
+            },
+            {
+                "ip": "128.32.0.66",
+                "ASN": "25",
+                "name": "xe-5-2-0.inr-001-sut.berkeley.edu"
+            }
+        ],
+        [
+            {
+                "ip": "137.164.50.16",
+                "ASN": "2152",
+                "name": "dc-sfo-agg-1--ucb-10ge.cenic.net"
+            }
+        ],
+        [
+            {
+                "ip": "137.164.22.27",
+                "ASN": "2152",
+                "name": "dc-svl-agg4--sfo-agg1-10ge-1.cenic.net"
+            }
+        ],
+        [
+            {
+                "ip": "4.15.122.45",
+                "ASN": "3356",
+                "name": "10-1-1-91.ear1.SanJose1.Level3.net"
+            }
+        ],
+        [
+            {
+                "ip": "4.69.209.189",
+                "ASN": "3356",
+                "name": "ae-3-19.edge2.SanJose3.Level3.net"
+            },
+            {
+                "ip": "4.69.209.181",
+                "ASN": "3356",
+                "name": "ae-1-9.edge2.SanJose3.Level3.net"
+            }
+        ],
+        [
+            {
+                "ip": "4.53.210.50",
+                "ASN": "3356",
+                "name": "4.53.210.50"
+            }
+        ],
+        [
+            {
+                "ip": "None",
+                "ASN": "None",
+                "name": "None"
+            }
+        ],
+        [
+            {
+                "ip": "104.244.42.65",
+                "ASN": "13414",
+                "name": "104.244.42.65"
+            }
+        ]
+    ],
+    "www.google.com": [
+        [
+            {
+                "ip": "169.229.14.129",
+                "ASN": "25",
+                "name": "inst-labs.CS.Berkeley.EDU"
+            }
+        ],
+        [
+            {
+                "ip": "169.229.63.228",
+                "ASN": "25",
+                "name": "soda-288-core-228.EECS.Berkeley.EDU"
+            }
+        ],
+        [
+            {
+                "ip": "169.229.59.241",
+                "ASN": "25",
+                "name": "edge-10g-soda.EECS.Berkeley.EDU"
+            }
+        ],
+        [
+            {
+                "ip": "128.32.255.53",
+                "ASN": "25",
+                "name": "t1-2.inr-201-sut.berkeley.edu"
+            }
+        ],
+        [
+            {
+                "ip": "128.32.0.38",
+                "ASN": "25",
+                "name": "xe-5-2-0.inr-002-reccev.berkeley.edu"
+            },
+            {
+                "ip": "128.32.0.36",
+                "ASN": "25",
+                "name": "xe-0-2-0.inr-002-reccev.berkeley.edu"
+            }
+        ],
+        [
+            {
+                "ip": "137.164.50.30",
+                "ASN": "2152",
+                "name": "oak-agg4--ucb-10g.cenic.net"
+            }
+        ],
+        [
+            {
+                "ip": "74.125.48.172",
+                "ASN": "15169",
+                "name": "74.125.48.172"
+            }
+        ],
+        [
+            {
+                "ip": "108.170.242.225",
+                "ASN": "15169",
+                "name": "108.170.242.225"
+            },
+            {
+                "ip": "108.170.243.1",
+                "ASN": "15169",
+                "name": "108.170.243.1"
+            }
+        ],
+        [
+            {
+                "ip": "108.170.237.9",
+                "ASN": "15169",
+                "name": "108.170.237.9"
+            }
+        ],
+        [
+            {
+                "ip": "216.58.195.228",
+                "ASN": "15169",
+                "name": "sfo03s06-in-f4.1e100.net"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,24 @@
+traceroute to twitter.com (104.244.42.65), 30 hops max, 60 byte packets
+ 1  inst-labs.CS.Berkeley.EDU (169.229.14.129) [AS25]  2.745 ms  4.117 ms  4.101 ms
+ 2  soda-288-core-228.EECS.Berkeley.EDU (169.229.63.228) [AS25]  3.936 ms  3.928 ms  3.964 ms
+ 3  edge-10g-soda.EECS.Berkeley.EDU (169.229.59.241) [AS25]  1.605 ms  1.619 ms  1.600 ms
+ 4  t1-2.inr-201-sut.berkeley.edu (128.32.255.53) [AS25/AS42/AS23]  0.705 ms * t1-2.inr-202-reccev.berkeley.edu (128.32.255.57) [AS25]  0.724 ms  
+ 5  xe-0-2-0.inr-001-sut.berkeley.edu (128.32.0.64) [*] 0.691 ms xe-0-2-0.inr-001-sut.berkeley.edu (128.32.0.80) [AS25/32] 0.923 ms xe-5-2-0.inr-001-sut.berkeley.edu (128.32.0.66) [AS25]  0.671 ms 
+ 6  dc-sfo-agg-1--ucb-10ge.cenic.net (137.164.50.16) [AS2152]  1.872 ms  1.315 ms  1.375 ms
+ 7  dc-svl-agg4--sfo-agg1-10ge-1.cenic.net (137.164.22.27) [AS2152]  3.003 ms  3.028 ms  3.157 ms
+ 8  10-1-1-91.ear1.SanJose1.Level3.net (4.15.122.45) [AS3356]  2.792 ms  2.753 ms  2.987 ms
+ 9  ae-3-19.edge2.SanJose3.Level3.net (4.69.209.189) [AS3356]  3.156 ms ae-1-9.edge2.SanJose3.Level3.net (4.69.209.181) [AS3356]  2.929 ms  2.908 ms
+10  4.53.210.50 (4.53.210.50) [AS3356]  2.916 ms  3.092 ms  3.167 ms
+11  * * *
+12  104.244.42.65 (104.244.42.65) [AS13414]  5.923 ms  6.053 ms  6.137 ms
+traceroute to www.google.com (216.58.195.228), 30 hops max, 60 byte packets
+ 1  inst-labs.CS.Berkeley.EDU (169.229.14.129) [AS25]  0.640 ms  1.406 ms  2.038 ms
+ 2  soda-288-core-228.EECS.Berkeley.EDU (169.229.63.228) [AS25]  0.211 ms  0.222 ms  0.257 ms
+ 3  edge-10g-soda.EECS.Berkeley.EDU (169.229.59.241) [AS25]  1.621 ms  1.615 ms  1.664 ms
+ 4  t1-2.inr-201-sut.berkeley.edu (128.32.255.53) [AS25]  0.886 ms  0.884 ms  0.874 ms
+ 5  xe-5-2-0.inr-002-reccev.berkeley.edu (128.32.0.38) [AS25]  0.852 ms xe-0-2-0.inr-002-reccev.berkeley.edu (128.32.0.36) [AS25]  0.892 ms  0.882 ms
+ 6  oak-agg4--ucb-10g.cenic.net (137.164.50.30) [AS2152]  1.848 ms  1.761 ms  1.796 ms
+ 7  74.125.48.172 (74.125.48.172) [AS15169]  2.343 ms  2.045 ms  2.210 ms
+ 8  108.170.242.225 (108.170.242.225) [AS15169]  2.548 ms  2.509 ms 108.170.243.1 (108.170.243.1) [AS15169]  2.476 ms
+ 9  108.170.237.9 (108.170.237.9) [AS15169]  2.843 ms  2.824 ms  2.804 ms
+10  sfo03s06-in-f4.1e100.net (216.58.195.228) [AS15169]  2.570 ms  2.797 ms  2.803 ms

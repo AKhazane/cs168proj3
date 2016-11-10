@@ -1,0 +1,210 @@
+
+; <<>> DiG 9.9.5-3ubuntu0.10-Ubuntu <<>> +trace +tries=1 +nofail +nodnssec google.com
+;; global options: +cmd
+.			485078	IN	NS	j.root-servers.net.
+.			485078	IN	NS	m.root-servers.net.
+.			485078	IN	NS	h.root-servers.net.
+.			485078	IN	NS	l.root-servers.net.
+.			485078	IN	NS	e.root-servers.net.
+.			485078	IN	NS	k.root-servers.net.
+.			485078	IN	NS	f.root-servers.net.
+.			485078	IN	NS	i.root-servers.net.
+.			485078	IN	NS	b.root-servers.net.
+.			485078	IN	NS	d.root-servers.net.
+.			485078	IN	NS	a.root-servers.net.
+.			485078	IN	NS	c.root-servers.net.
+.			485078	IN	NS	g.root-servers.net.
+;; Received 811 bytes from 169.229.14.130#53(169.229.14.130) in 5022 ms
+
+com.			172800	IN	NS	a.gtld-servers.net.
+com.			172800	IN	NS	m.gtld-servers.net.
+com.			172800	IN	NS	b.gtld-servers.net.
+com.			172800	IN	NS	j.gtld-servers.net.
+com.			172800	IN	NS	e.gtld-servers.net.
+com.			172800	IN	NS	i.gtld-servers.net.
+com.			172800	IN	NS	g.gtld-servers.net.
+com.			172800	IN	NS	f.gtld-servers.net.
+com.			172800	IN	NS	k.gtld-servers.net.
+com.			172800	IN	NS	c.gtld-servers.net.
+com.			172800	IN	NS	h.gtld-servers.net.
+com.			172800	IN	NS	d.gtld-servers.net.
+com.			172800	IN	NS	l.gtld-servers.net.
+;; Received 527 bytes from 192.228.79.201#53(b.root-servers.net) in 39 ms
+
+google.com.		172800	IN	NS	ns2.google.com.
+google.com.		172800	IN	NS	ns1.google.com.
+google.com.		172800	IN	NS	ns3.google.com.
+google.com.		172800	IN	NS	ns4.google.com.
+;; Received 175 bytes from 192.12.94.30#53(e.gtld-servers.net) in 6 ms
+
+google.com.		300	IN	A	216.58.192.14
+;; Received 44 bytes from 216.239.34.10#53(ns2.google.com) in 51 ms
+
+
+; <<>> DiG 9.9.5-3ubuntu0.10-Ubuntu <<>> +trace +tries=1 +nofail +nodnssec google.com
+;; global options: +cmd
+.			485072	IN	NS	e.root-servers.net.
+.			485072	IN	NS	d.root-servers.net.
+.			485072	IN	NS	a.root-servers.net.
+.			485072	IN	NS	c.root-servers.net.
+.			485072	IN	NS	m.root-servers.net.
+.			485072	IN	NS	l.root-servers.net.
+.			485072	IN	NS	h.root-servers.net.
+.			485072	IN	NS	i.root-servers.net.
+.			485072	IN	NS	j.root-servers.net.
+.			485072	IN	NS	f.root-servers.net.
+.			485072	IN	NS	g.root-servers.net.
+.			485072	IN	NS	b.root-servers.net.
+.			485072	IN	NS	k.root-servers.net.
+;; Received 811 bytes from 169.229.14.130#53(169.229.14.130) in 14 ms
+
+com.			172800	IN	NS	i.gtld-servers.net.
+com.			172800	IN	NS	d.gtld-servers.net.
+com.			172800	IN	NS	a.gtld-servers.net.
+com.			172800	IN	NS	k.gtld-servers.net.
+com.			172800	IN	NS	g.gtld-servers.net.
+com.			172800	IN	NS	j.gtld-servers.net.
+com.			172800	IN	NS	m.gtld-servers.net.
+com.			172800	IN	NS	f.gtld-servers.net.
+com.			172800	IN	NS	h.gtld-servers.net.
+com.			172800	IN	NS	b.gtld-servers.net.
+com.			172800	IN	NS	c.gtld-servers.net.
+com.			172800	IN	NS	e.gtld-servers.net.
+com.			172800	IN	NS	l.gtld-servers.net.
+;; Received 527 bytes from 199.7.91.13#53(d.root-servers.net) in 95 ms
+
+google.com.		172800	IN	NS	ns2.google.com.
+google.com.		172800	IN	NS	ns1.google.com.
+google.com.		172800	IN	NS	ns3.google.com.
+google.com.		172800	IN	NS	ns4.google.com.
+;; Received 175 bytes from 192.52.178.30#53(k.gtld-servers.net) in 169 ms
+
+google.com.		300	IN	A	216.58.194.206
+;; Received 44 bytes from 216.239.36.10#53(ns3.google.com) in 68 ms
+
+
+; <<>> DiG 9.9.5-3ubuntu0.10-Ubuntu <<>> +trace +tries=1 +nofail +nodnssec google.com
+;; global options: +cmd
+.			485070	IN	NS	e.root-servers.net.
+.			485070	IN	NS	h.root-servers.net.
+.			485070	IN	NS	d.root-servers.net.
+.			485070	IN	NS	a.root-servers.net.
+.			485070	IN	NS	c.root-servers.net.
+.			485070	IN	NS	g.root-servers.net.
+.			485070	IN	NS	k.root-servers.net.
+.			485070	IN	NS	m.root-servers.net.
+.			485070	IN	NS	b.root-servers.net.
+.			485070	IN	NS	l.root-servers.net.
+.			485070	IN	NS	i.root-servers.net.
+.			485070	IN	NS	j.root-servers.net.
+.			485070	IN	NS	f.root-servers.net.
+;; Received 811 bytes from 169.229.14.130#53(169.229.14.130) in 10 ms
+
+com.			172800	IN	NS	a.gtld-servers.net.
+com.			172800	IN	NS	b.gtld-servers.net.
+com.			172800	IN	NS	c.gtld-servers.net.
+com.			172800	IN	NS	d.gtld-servers.net.
+com.			172800	IN	NS	e.gtld-servers.net.
+com.			172800	IN	NS	f.gtld-servers.net.
+com.			172800	IN	NS	g.gtld-servers.net.
+com.			172800	IN	NS	h.gtld-servers.net.
+com.			172800	IN	NS	i.gtld-servers.net.
+com.			172800	IN	NS	j.gtld-servers.net.
+com.			172800	IN	NS	k.gtld-servers.net.
+com.			172800	IN	NS	l.gtld-servers.net.
+com.			172800	IN	NS	m.gtld-servers.net.
+;; Received 527 bytes from 192.58.128.30#53(j.root-servers.net) in 34 ms
+
+google.com.		172800	IN	NS	ns2.google.com.
+google.com.		172800	IN	NS	ns1.google.com.
+google.com.		172800	IN	NS	ns3.google.com.
+google.com.		172800	IN	NS	ns4.google.com.
+;; Received 175 bytes from 192.33.14.30#53(b.gtld-servers.net) in 27 ms
+
+google.com.		300	IN	A	216.58.194.206
+;; Received 44 bytes from 216.239.36.10#53(ns3.google.com) in 68 ms
+
+
+; <<>> DiG 9.9.5-3ubuntu0.10-Ubuntu <<>> +trace +tries=1 +nofail +nodnssec google.com
+;; global options: +cmd
+.			485066	IN	NS	g.root-servers.net.
+.			485066	IN	NS	a.root-servers.net.
+.			485066	IN	NS	c.root-servers.net.
+.			485066	IN	NS	h.root-servers.net.
+.			485066	IN	NS	d.root-servers.net.
+.			485066	IN	NS	i.root-servers.net.
+.			485066	IN	NS	k.root-servers.net.
+.			485066	IN	NS	m.root-servers.net.
+.			485066	IN	NS	l.root-servers.net.
+.			485066	IN	NS	j.root-servers.net.
+.			485066	IN	NS	b.root-servers.net.
+.			485066	IN	NS	e.root-servers.net.
+.			485066	IN	NS	f.root-servers.net.
+;; Received 811 bytes from 169.229.14.130#53(169.229.14.130) in 16 ms
+
+com.			172800	IN	NS	j.gtld-servers.net.
+com.			172800	IN	NS	i.gtld-servers.net.
+com.			172800	IN	NS	m.gtld-servers.net.
+com.			172800	IN	NS	l.gtld-servers.net.
+com.			172800	IN	NS	c.gtld-servers.net.
+com.			172800	IN	NS	d.gtld-servers.net.
+com.			172800	IN	NS	k.gtld-servers.net.
+com.			172800	IN	NS	a.gtld-servers.net.
+com.			172800	IN	NS	b.gtld-servers.net.
+com.			172800	IN	NS	f.gtld-servers.net.
+com.			172800	IN	NS	h.gtld-servers.net.
+com.			172800	IN	NS	g.gtld-servers.net.
+com.			172800	IN	NS	e.gtld-servers.net.
+;; Received 527 bytes from 199.7.91.13#53(d.root-servers.net) in 93 ms
+
+google.com.		172800	IN	NS	ns2.google.com.
+google.com.		172800	IN	NS	ns1.google.com.
+google.com.		172800	IN	NS	ns3.google.com.
+google.com.		172800	IN	NS	ns4.google.com.
+;; Received 175 bytes from 192.26.92.30#53(c.gtld-servers.net) in 16 ms
+
+google.com.		300	IN	A	216.58.194.206
+;; Received 44 bytes from 216.239.34.10#53(ns2.google.com) in 48 ms
+
+
+; <<>> DiG 9.9.5-3ubuntu0.10-Ubuntu <<>> +trace +tries=1 +nofail +nodnssec google.com
+;; global options: +cmd
+.			485065	IN	NS	l.root-servers.net.
+.			485065	IN	NS	e.root-servers.net.
+.			485065	IN	NS	c.root-servers.net.
+.			485065	IN	NS	m.root-servers.net.
+.			485065	IN	NS	a.root-servers.net.
+.			485065	IN	NS	i.root-servers.net.
+.			485065	IN	NS	f.root-servers.net.
+.			485065	IN	NS	j.root-servers.net.
+.			485065	IN	NS	k.root-servers.net.
+.			485065	IN	NS	b.root-servers.net.
+.			485065	IN	NS	h.root-servers.net.
+.			485065	IN	NS	g.root-servers.net.
+.			485065	IN	NS	d.root-servers.net.
+;; Received 811 bytes from 169.229.14.130#53(169.229.14.130) in 18 ms
+
+com.			172800	IN	NS	k.gtld-servers.net.
+com.			172800	IN	NS	m.gtld-servers.net.
+com.			172800	IN	NS	e.gtld-servers.net.
+com.			172800	IN	NS	f.gtld-servers.net.
+com.			172800	IN	NS	d.gtld-servers.net.
+com.			172800	IN	NS	g.gtld-servers.net.
+com.			172800	IN	NS	j.gtld-servers.net.
+com.			172800	IN	NS	a.gtld-servers.net.
+com.			172800	IN	NS	l.gtld-servers.net.
+com.			172800	IN	NS	c.gtld-servers.net.
+com.			172800	IN	NS	b.gtld-servers.net.
+com.			172800	IN	NS	h.gtld-servers.net.
+com.			172800	IN	NS	i.gtld-servers.net.
+;; Received 527 bytes from 192.5.5.241#53(f.root-servers.net) in 14 ms
+
+google.com.		172800	IN	NS	ns2.google.com.
+google.com.		172800	IN	NS	ns1.google.com.
+google.com.		172800	IN	NS	ns3.google.com.
+google.com.		172800	IN	NS	ns4.google.com.
+;; Received 175 bytes from 192.26.92.30#53(c.gtld-servers.net) in 16 ms
+
+google.com.		300	IN	A	216.58.194.206
+;; Received 44 bytes from 216.239.32.10#53(ns1.google.com) in 20 ms
+

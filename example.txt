@@ -1,7 +1,0 @@
-[
-  {
-    "Success": null,
-    "Queries": {},
-    "Name": "www.google.com"
-  }
-]

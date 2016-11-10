@@ -39,16 +39,19 @@ def parse_traceroute(raw_traceroute_filename, output_filename):
                                 for hop in parse:
                                         info = {"name": "None", "ip": "None", "ASN": "None"}
                                         line2 = hop.strip().split()
-                                        if len(line2) >  1:
+                                        if len(line2) >  2:
                                                 while(len(line2) != 0 and (line2[0] == " " or line2[0] == "*" or line2[0] == "*,")):
                                                         line2.pop(0)
-                                                if len(line2) != 0:
+                                                if len(line2) > 2:
                                                         p = re.compile('\(([^\)]+)\)')
-                                                        if p.findall(line2[1])[0] not in ip_check:
+                                                        info["name"] = line2[0]
+                                                        if len(p.findall(line2[1])) == 0:
+                                                                info['ip'] = info['name']
+                                                        elif p.findall(line2[1])[0] not in ip_check:
                                                                 ip_check.append(p.findall(line2[1])[0])
                                                                 info["ip"] = p.findall(line2[1])[0]
-                                                                info["name"] = line2[0]
-                                                                p = re.compile('\[([^\)]+)\]')
+                                                        p = re.compile('\[([^\)]+)\]')
+                                                        if len(p.findall(line2[2])) != 0:
                                                                 intermediate = p.findall(line2[2])[0]
                                                                 p = re.compile(r'\d+')
                                                                 check = p.findall(intermediate)
@@ -63,7 +66,7 @@ def parse_traceroute(raw_traceroute_filename, output_filename):
                                                                                 value += str(asn_number) + "/"
                                                                         value = value[:-1] 
                                                                         info['ASN'] = value
-                                                                packets.append(info)
+                                                        packets.append(info)
 
                                 if (len(packets) == 0):
                                         traceroute_json[current_hostname].append([info])
@@ -71,12 +74,14 @@ def parse_traceroute(raw_traceroute_filename, output_filename):
                                         traceroute_json[current_hostname].append(packets)
 
 
-        with open(output_filename, "w") as f2:
-                f2.write(json.dumps(traceroute_json, indent = 4))
+        with open(output_filename, "a") as f2:
+                f2.write(json.dumps(traceroute_json) + "\n")
 
 
-traceroute_json['twitter.com'] = [] 
-traceroute_json['www.google.com'] = [] 
 os.chdir(os.getcwd())
-parse_traceroute("traceroute.txt", "traceroute_json.txt")
-# print(traceroute_json)
+run_traceroute(["google.com", "facebook.com", "www.berkeley.edu", "allspice.lcs.mit.edu", "todayhumor.co.kr", "www.city.kobe.lg.jp", "www.vutbr.cz", "zanvarsity.ac.tz"], 5, "traceroute.txt")
+parse_traceroute("traceroute.txt", 'tr_a.json')
+#run_traceroute(["tpr-route-server.saix.net", "route-server.ip-plus.net", "route-views.oregon-ix.net", "route-views.on.bb.telus.com"], 3, "traceroute2.txt")
+#parse_traceroute("traceroute2.txt", 'tr_b.json')
+#traceroute_json['s275-15.CS.Berkeley.EDU'] = []
+#parse_traceroute("server_info.txt", 'tr_b.json')

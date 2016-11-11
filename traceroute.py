@@ -75,7 +75,7 @@ def parse_traceroute(raw_traceroute_filename, output_filename):
 
 
         with open(output_filename, "a") as f2:
-                f2.write(json.dumps(traceroute_json) + "\n")
+                f2.write(json.dumps(traceroute_json))
 
 
 os.chdir(os.getcwd())

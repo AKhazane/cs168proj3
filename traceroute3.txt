@@ -1,0 +1,58 @@
+traceroute to tpr-route-server.saix.net (196.25.9.46), 30 hops max, 60 byte packets
+ 1  soda3b-gw.EECS.Berkeley.EDU (128.32.112.1) [AS25]  3.266 ms  4.399 ms  4.396 ms
+ 2  soda-288-core-228.EECS.Berkeley.EDU (169.229.63.228) [AS25]  5.479 ms  5.479 ms  5.475 ms
+ 3  edge-10g-soda.EECS.Berkeley.EDU (169.229.59.241) [AS25]  1.788 ms  1.843 ms  1.841 ms
+ 4  t1-2.inr-201-sut.berkeley.edu (128.32.255.53) [AS25]  0.782 ms t1-2.inr-202-reccev.berkeley.edu (128.32.255.57) [AS25]  0.784 ms  0.892 ms
+ 5  xe-5-2-0.inr-001-sut.berkeley.edu (128.32.0.66) [AS25]  1.681 ms  1.700 ms  1.698 ms
+ 6  dc-sfo-agg-1--ucb-10ge.cenic.net (137.164.50.16) [AS2152]  1.796 ms  1.607 ms  1.606 ms
+ 7  dc-svl-agg4--sfo-agg1-10ge-1.cenic.net (137.164.22.27) [AS2152]  2.844 ms  2.751 ms  2.767 ms
+ 8  xe-0-1-0.0.rtr.paix.net.internet2.edu (64.57.21.4) [*]  2.926 ms  3.053 ms  3.047 ms
+ 9  xe-2-2-0.80.rtsw.losa.net.internet2.edu (64.57.20.124) [*]  10.742 ms  10.757 ms  10.445 ms
+10  et-4-0-0.80.rtr.wilc.net.internet2.edu (64.57.20.127) [*]  22.732 ms  10.535 ms  10.696 ms
+11  pccw-global.as3491.any2ix.coresite.com (206.72.210.49) [AS14365/AS4039/AS1784]  11.168 ms  11.200 ms  11.261 ms
+12  TenGE0-0-0-23.br02.frf06.pccwbtn.net (63.218.232.61) [AS3491]  159.490 ms TenGE0-0-0-22.br02.frf06.pccwbtn.net (63.218.232.193) [AS3491]  175.862 ms TenGE0-0-0-23.br02.frf06.pccwbtn.net (63.218.232.61) [AS3491]  159.504 ms
+13  63-218-233-14.static.pccwglobal.net (63.218.233.14) [AS3491]  161.761 ms  175.977 ms  161.770 ms
+14  tpr-ip-esr-1-gig-6-0-0.telkom-ipnet.co.za (196.43.10.86) [AS5713]  349.936 ms  345.101 ms  343.059 ms
+15  * tpr-route-server.saix.net (196.25.9.46) [AS5713]  331.217 ms *
+traceroute to route-server.ip-plus.net (193.247.171.26), 30 hops max, 60 byte packets
+ 1  soda3b-gw.EECS.Berkeley.EDU (128.32.112.1) [AS25]  2.285 ms  2.268 ms  9.301 ms
+ 2  soda-288-core-228.EECS.Berkeley.EDU (169.229.63.228) [AS25]  0.217 ms  0.219 ms  0.235 ms
+ 3  edge-10g-soda.EECS.Berkeley.EDU (169.229.59.241) [AS25]  1.851 ms  1.853 ms  1.876 ms
+ 4  t1-2.inr-201-sut.berkeley.edu (128.32.255.53) [AS25]  1.022 ms  1.042 ms  1.038 ms
+ 5  xe-0-2-0.inr-001-sut.berkeley.edu (128.32.0.64) [AS25]  1.026 ms xe-5-2-0.inr-001-sut.berkeley.edu (128.32.0.66) [AS25]  1.023 ms xe-0-2-0.inr-001-sut.berkeley.edu (128.32.0.64) [AS25]  1.022 ms
+ 6  dc-sfo-agg-1--ucb-10ge.cenic.net (137.164.50.16) [AS2152]  1.920 ms  1.779 ms  1.862 ms
+ 7  dc-svl-agg4--sfo-agg1-10ge-2.cenic.net (137.164.22.7) [AS2152]  4.766 ms  3.881 ms  4.205 ms
+ 8  xe-1-1-0.0.rtr.paix.net.internet2.edu (64.57.21.6) [*]  3.032 ms  3.029 ms  3.096 ms
+ 9  xe-2-2-0.80.rtsw.losa.net.internet2.edu (64.57.20.124) [*]  10.858 ms  10.590 ms  10.600 ms
+10  ae-2.80.rtsw.salt.net.internet2.edu (64.57.20.145) [*]  23.282 ms  23.201 ms  23.186 ms
+11  ae-2.80.rtsw.kans.net.internet2.edu (64.57.20.147) [*]  43.123 ms  43.156 ms  43.229 ms
+12  ae-0.80.rtsw.chic.net.internet2.edu (64.57.20.149) [*]  54.414 ms  54.394 ms  54.418 ms
+13  ae-4.80.rtr.eqch.net.internet2.edu (64.57.20.151) [*]  54.492 ms  54.343 ms  54.401 ms
+14  equinix-chicago.bb.ip-plus.net (206.223.119.82) [*]  80.494 ms  80.503 ms  80.574 ms
+15  i68geb-005-ten0-1-0-1-7.bb.ip-plus.net (138.187.159.18) [AS3303]  163.319 ms  163.333 ms  163.434 ms
+16  route-server.ip-plus.net (193.247.171.26) [AS3303]  170.169 ms * *
+traceroute to route-views.oregon-ix.net (128.223.51.103), 30 hops max, 60 byte packets
+ 1  soda3b-gw.EECS.Berkeley.EDU (128.32.112.1) [AS25]  92.566 ms  93.500 ms  94.329 ms
+ 2  soda-288-core-228.EECS.Berkeley.EDU (169.229.63.228) [AS25]  0.246 ms  0.252 ms  0.272 ms
+ 3  edge-10g-soda.EECS.Berkeley.EDU (169.229.59.241) [AS25]  1.763 ms  1.767 ms  1.804 ms
+ 4  t1-2.inr-201-sut.berkeley.edu (128.32.255.53) [AS25]  0.904 ms t1-2.inr-202-reccev.berkeley.edu (128.32.255.57) [AS25]  0.907 ms t1-2.inr-201-sut.berkeley.edu (128.32.255.53) [AS25]  0.901 ms
+ 5  xe-0-2-0.inr-001-sut.berkeley.edu (128.32.0.64) [AS25]  0.895 ms  0.889 ms xe-5-2-0.inr-001-sut.berkeley.edu (128.32.0.66) [AS25]  0.913 ms
+ 6  hpr-svl--ucb-10ge.cenic.net (137.164.27.132) [AS2152]  2.907 ms  2.713 ms  2.693 ms
+ 7  hpr-i2--svl-hpr.cenic.net (137.164.26.142) [AS2152]  27.529 ms  28.121 ms  28.125 ms
+ 8  uo-re2-gw.oregon-gigapop.net (198.32.165.73) [*]  31.760 ms uo-re1-gw.oregon-gigapop.net (198.32.165.72) [*]  30.702 ms  30.776 ms
+ 9  vl-2-gw.uoregon.edu (128.223.2.1) [AS3582]  30.390 ms  30.008 ms vl-2.uonet2-gw.uoregon.edu (128.223.2.2) [AS3582]  30.528 ms
+10  route-views.routeviews.org (128.223.51.103) [AS3582]  68.149 ms * *
+traceroute to route-views.on.bb.telus.com (154.11.63.86), 30 hops max, 60 byte packets
+ 1  soda3b-gw.EECS.Berkeley.EDU (128.32.112.1) [AS25]  278.677 ms  284.562 ms  284.574 ms
+ 2  soda-288-core-228.EECS.Berkeley.EDU (169.229.63.228) [AS25]  0.228 ms  0.230 ms  0.244 ms
+ 3  edge-10g-soda.EECS.Berkeley.EDU (169.229.59.241) [AS25]  1.694 ms  1.696 ms  1.735 ms
+ 4  t1-2.inr-201-sut.berkeley.edu (128.32.255.53) [AS25]  0.714 ms t1-2.inr-202-reccev.berkeley.edu (128.32.255.57) [AS25]  1.041 ms t1-2.inr-201-sut.berkeley.edu (128.32.255.53) [AS25]  1.040 ms
+ 5  xe-0-2-0.inr-001-sut.berkeley.edu (128.32.0.64) [AS25]  1.030 ms  1.025 ms xe-5-2-0.inr-001-sut.berkeley.edu (128.32.0.66) [AS25]  1.072 ms
+ 6  dc-sfo-agg-1--ucb-10ge.cenic.net (137.164.50.16) [AS2152]  2.058 ms  1.896 ms  1.888 ms
+ 7  dc-svl-agg4--sfo-agg1-10ge-2.cenic.net (137.164.22.7) [AS2152]  3.586 ms  3.127 ms  2.788 ms
+ 8  xe-0-1-0.0.rtr.paix.net.internet2.edu (64.57.21.4) [*]  2.956 ms  2.946 ms xe-1-1-0.0.rtr.paix.net.internet2.edu (64.57.21.6) [*]  3.064 ms
+ 9  xe-0-1-1.0.rtsw.seat.net.internet2.edu (64.57.20.133) [*]  60.967 ms  60.421 ms  60.409 ms
+10  six.telus.com (206.81.80.227) [AS22773]  27.412 ms  27.350 ms  27.475 ms
+11  toroonxndr02.bb.telus.com (154.11.6.19) [AS852]  81.386 ms  81.200 ms  85.731 ms
+12  * * *
+13  route-views.on.bb.telus.com (154.11.63.86) [AS852]  81.481 ms * *

@@ -1,0 +1,59 @@
+traceroute to tpr-route-server.saix.net (128.32.112.1)
+  1 tpr-ip-esr-1-fe-1-0-3.telkom-ipnet.co.za (196.25.9.45) 0 ms lon-ip-hsll-1-gig-5-1-0.telkom-ipnet.co.za (196.25.9.46) 0 ms
+  2 lon-ip-hsll-1-gig-5-1-0.telkom-ipnet.co.za (196.43.9.50) 168 ms 168 ms 172 ms
+  3 tenge7-2.var01.ldn04.pccwbtn.net (63.218.243.17) 180 ms 180 ms 180 ms
+  4  *  *  * 
+  5 xe-7-0-0.0.rtsw.losa.net.internet2.edu (64.57.20.247) [AS11164] 324 ms 328 ms 324 ms
+  6 64.57.20.83 [AS11164] 324 ms 320 ms 324 ms
+  7 dc-lax-agg6--lax-agg7-100g.cenic.net (137.164.11.10) [AS2152] 324 ms 324 ms 324 ms
+  8 dc-svl-agg4--lax-agg6-100ge.cenic.net (137.164.11.1) [AS2152] 328 ms 328 ms 328 ms
+  9 dc-oak-agg4--svl-agg4-100ge.cenic.net (137.164.46.144) [AS2152] 332 ms 328 ms 332 ms
+ 10 ucb--oak-agg4-10g.cenic.net (137.164.50.31) [AS2152] 344 ms 340 ms 344 ms
+ 11 t2-3.inr-202-reccev.berkeley.edu (128.32.0.39) [AS25] 324 ms 328 ms t2-3.inr-201-sut.berkeley.edu (128.32.0.37) [AS25] 332 ms
+ 12 reccev-eecs-br-10ge.eecs.berkeley.edu (128.32.255.58) [AS25] 332 ms 336 ms 332 ms
+ 13 soda-10g-edge.EECS.Berkeley.EDU (169.229.59.242) [AS25] 332 ms 332 ms 336 ms
+ 14 soda3b-gw.EECS.Berkeley.EDU (128.32.112.1) [AS25] 336 ms 332 ms 328 ms
+traceroute to route-server.ip-plus.net (128.32.112.1)
+  1 i68geb-005-tunnel-ip1.bb.ip-plus.net (193.247.171.25) [AS65000] 8 ms 8 ms 8 ms
+  2 i00eqx-005-ten0-2-1-0.bb.ip-plus.net (138.187.159.53) [AS65098] 100 ms 100 ms 100 ms
+  3 eeq-exchange.tr01-asbnva01.transitrail.net (206.126.236.45) 100 ms 96 ms 100 ms
+  4 xe-7-0-0.0.rtsw.losa.net.internet2.edu (64.57.20.247) [AS11164] 160 ms 160 ms 160 ms
+  5 64.57.20.83 [AS11164] 160 ms 160 ms 160 ms
+  6 dc-lax-agg6--lax-agg7-100g.cenic.net (137.164.11.10) [AS2152] 160 ms 160 ms 160 ms
+  7 dc-svl-agg4--lax-agg6-100ge.cenic.net (137.164.11.1) [AS2152] 168 ms 168 ms 172 ms
+  8 dc-oak-agg4--svl-agg4-100ge.cenic.net (137.164.46.144) [AS2152] 168 ms 168 ms 168 ms
+  9 ucb--oak-agg4-10g.cenic.net (137.164.50.31) [AS2152] 172 ms 168 ms 172 ms
+ 10 t2-3.inr-201-sut.berkeley.edu (128.32.0.37) [AS25] 168 ms t2-3.inr-202-reccev.berkeley.edu (128.32.0.39) [AS25] 168 ms 220 ms
+ 11 reccev-eecs-br-10ge.eecs.berkeley.edu (128.32.255.58) [AS25] 168 ms 172 ms 172 ms
+ 12 soda-10g-edge.EECS.Berkeley.EDU (169.229.59.242) [AS25] 168 ms 172 ms 168 ms
+ 13 soda3b-gw.EECS.Berkeley.EDU (128.32.112.1) [AS25] 172 ms 168 ms 184 ms
+traceroute to route-views.oregon-ix.net (128.32.112.1)
+  1 vl-51.uonet1-gw.uoregon.edu (128.223.51.2) [AS3582] 48 ms 48 ms 48 ms
+  2 2.bundle-ether10.uonet10-gw.uoregon.edu (128.223.2.10) [AS3582] 49 ms 1 ms 48 ms
+  3 internet2-re1-gw.oregon-gigapop.net (198.32.165.126) [AS58511] 49 ms 48 ms 48 ms
+  4 hpr-lax-hpr2--i2-r&e.cenic.net (137.164.26.200) [AS2153] 49 ms 48 ms 48 ms
+  5 hpr-svl-hpr3--lax-hpr3-100ge.cenic.net (137.164.25.74) [AS2153] 48 ms 48 ms 48 ms
+  6 hpr-ucb--svl-hpr-10g.cenic.net (137.164.27.133) [AS2153] 49 ms 48 ms 48 ms
+  7 t1-3.inr-202-reccev.berkeley.edu (128.32.0.67) [AS25] 48 ms 49 ms 49 ms
+  8 evans-eecs-br-10ge.eecs.berkeley.edu (128.32.255.54) [AS25] 48 ms 48 ms 48 ms
+  9 soda-10g-edge.EECS.Berkeley.EDU (169.229.59.242) [AS25] 48 ms 48 ms 48 ms
+ 10 soda3b-gw.EECS.Berkeley.EDU (128.32.112.1) [AS25] 47 ms 48 ms 161 ms
+traceroute to route-views.on.bb.telus.com (128.32.112.1)
+  1 toroonxngr00.bb.telus.com (154.11.63.85) [AS852] 0 ms 0 ms 0 ms
+  2 toroonxngr00.bb.telus.com (154.11.6.86) [AS852] 0 ms 4 ms 0 ms
+  3 NYCMNY83CI01.bb.telus.com (75.154.223.252) 8 ms 75.154.223.254 12 ms 12 ms
+  4 rtr.loss.net.internet2.edu (198.32.118.161) 8 ms 8 ms 44 ms
+  5 ae-0.0.rtr.eqch.net.internet2.edu (64.57.20.33) [AS11164] 24 ms 24 ms 24 ms
+  6 ae-1.80.rtsw.chic.net.internet2.edu (64.57.20.150) [AS11164] 24 ms 32 ms 24 ms
+  7 ae-0.80.rtsw.kans.net.internet2.edu (64.57.20.148) [AS11164] 36 ms 32 ms 32 ms
+  8 ae-0.80.rtsw.salt.net.internet2.edu (64.57.20.146) [AS11164] 56 ms 56 ms 56 ms
+  9 ae-2.80.rtsw.losa.net.internet2.edu (64.57.20.144) [AS11164] 76 ms 76 ms 80 ms
+ 10 64.57.20.83 [AS11164] 80 ms 80 ms 76 ms
+ 11 dc-lax-agg6--lax-agg7-100g.cenic.net (137.164.11.10) [AS2152] 84 ms 84 ms 84 ms
+ 12 dc-svl-agg4--lax-agg6-100ge.cenic.net (137.164.11.1) [AS2152] 80 ms 76 ms 80 ms
+ 13 dc-oak-agg4--svl-agg4-100ge.cenic.net (137.164.46.144) [AS2152] 80 ms 84 ms 80 ms
+ 14 ucb--oak-agg4-10g.cenic.net (137.164.50.31) [AS2152] 84 ms 84 ms 84 ms
+ 15 t2-3.inr-202-reccev.berkeley.edu (128.32.0.39) [AS25] 84 ms t2-3.inr-201-sut.berkeley.edu (128.32.0.37) [AS25] 80 ms 80 ms
+ 16 evans-eecs-br-10ge.eecs.berkeley.edu (128.32.255.54) [AS25] 88 ms 84 ms 88 ms
+ 17 soda-10g-edge.EECS.Berkeley.EDU (169.229.59.242) [AS25] 92 ms 84 ms 88 ms
+ 18 soda3b-gw.EECS.Berkeley.EDU (128.32.112.1) [AS25] 84 ms 100 ms 84 ms

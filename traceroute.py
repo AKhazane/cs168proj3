@@ -9,7 +9,7 @@ import os
 traceroute_json = {}
 def run_traceroute(hostnames, num_packets, output_filename):
         global traceroute_json
-        traceroute_json["timestamp"] = time.time()
+        # traceroute_json["timestamp"] = time.time()
         with open(output_filename, "w") as f:
                 for hostname in hostnames:
                         traceroute_json[hostname] = []
@@ -26,6 +26,7 @@ def parse_traceroute(raw_traceroute_filename, output_filename):
         current_hostname = ""
         with open(raw_traceroute_filename, 'r') as f1:
                 for line in f1: #parse all hops
+                        line = line.strip()
                         if line.startswith("traceroute"):
                                 line = line.split()
                                 current_hostname = line[2] 
@@ -46,28 +47,23 @@ def parse_traceroute(raw_traceroute_filename, output_filename):
                                                         p = re.compile('\(([^\)]+)\)')
                                                         info["name"] = line2[0]
                                                         if len(p.findall(line2[1])) == 0:
-                                                                info['ip'] = info['name']
+                                                                if info['name'] not in ip_check:
+                                                                        info['ip'] = info['name']
+                                                                        info = retrieve_ASN(line2, info, 1)
+                                                                        packets.append(info)
                                                         elif p.findall(line2[1])[0] not in ip_check:
                                                                 ip_check.append(p.findall(line2[1])[0])
                                                                 info["ip"] = p.findall(line2[1])[0]
-                                                        p = re.compile('\[([^\)]+)\]')
-                                                        if len(p.findall(line2[2])) != 0:
-                                                                intermediate = p.findall(line2[2])[0]
-                                                                p = re.compile(r'\d+')
-                                                                check = p.findall(intermediate)
-                                                                if len(check) == 0:
-                                                                        info["ASN"] = str(None)
-                                                                elif len(check) == 1 and check[0] == 0:
-                                                                        info["ASN"] = str(None)
-                                                                        value = "" 
-                                                                else:
-                                                                        value = ""
-                                                                        for asn_number in check:
-                                                                                value += str(asn_number) + "/"
-                                                                        value = value[:-1] 
-                                                                        info['ASN'] = value
+                                                                info = retrieve_ASN(line2, info, 2)
+                                                                packets.append(info)
+                                        elif len(line2) > 0:
+                                                p = re.compile("^(?:(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.){3}(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)$")
+                                                # print line2
+                                                if len(p.findall(line2[0])) > 0:
+                                                        print ("yep")
+                                                        info['ip'] = p.findall(line2[0])[0]
+                                                        info['name'] = info['ip']
                                                         packets.append(info)
-
                                 if (len(packets) == 0):
                                         traceroute_json[current_hostname].append([info])
                                 else:
@@ -78,10 +74,35 @@ def parse_traceroute(raw_traceroute_filename, output_filename):
                 f2.write(json.dumps(traceroute_json))
 
 
+
+def retrieve_ASN(line2, info, index):
+        print line2 
+        p = re.compile('\[([^\)]+)\]')
+        if len(p.findall(line2[index])) != 0:
+                print("we good fam")
+                intermediate = p.findall(line2[index])[0]
+                p = re.compile(r'\d+')
+                check = p.findall(intermediate)
+                if len(check) == 0:
+                        info["ASN"] = str(None)
+                elif len(check) == 1 and check[0] == 0:
+                        info["ASN"] = str(None)
+                        value = "" 
+                else:
+                        value = ""
+                        for asn_number in check:
+                                value += str(asn_number) + "/"
+                        value = value[:-1] 
+                        info['ASN'] = value
+        return info 
 os.chdir(os.getcwd())
 run_traceroute(["google.com", "facebook.com", "www.berkeley.edu", "allspice.lcs.mit.edu", "todayhumor.co.kr", "www.city.kobe.lg.jp", "www.vutbr.cz", "zanvarsity.ac.tz"], 5, "traceroute.txt")
 parse_traceroute("traceroute.txt", 'tr_a.json')
-#run_traceroute(["tpr-route-server.saix.net", "route-server.ip-plus.net", "route-views.oregon-ix.net", "route-views.on.bb.telus.com"], 3, "traceroute2.txt")
-#parse_traceroute("traceroute2.txt", 'tr_b.json')
-#traceroute_json['s275-15.CS.Berkeley.EDU'] = []
-#parse_traceroute("server_info.txt", 'tr_b.json')
+# run_traceroute(["tpr-route-server.saix.net", "route-server.ip-plus.net", "route-views.oregon-ix.net", "route-views.on.bb.telus.com"], 3, "traceroute3.txt")
+# parse_traceroute("traceroute3.txt", 'tr_b.json')
+# traceroute_json['tpr-route-server.saix.net'] = []
+# traceroute_json['route-views.on.bb.telus.com'] = []
+# traceroute_json['route-server.ip-plus.net'] = []
+# traceroute_json['route-views.oregon-ix.net'] = []
+
+# parse_traceroute("traceroute2.txt", 'tr_b.json')

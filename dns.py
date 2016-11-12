@@ -148,7 +148,7 @@ def get_average_ttls(filename):
 				averages = np.array([new_averages])
 			else: 
 				averages = np.concatenate((averages, np.array([new_averages])), axis=0)
-		final_averages = np.mean(np.array(averages), axis=0) / 1000 
+		final_averages = np.mean(np.array(averages), axis=0) 
 		return final_averages.tolist()
 
 def checkRoot(name):
@@ -185,7 +185,7 @@ def generate_time_cdfs(json_filename, output_filename):
 	for dig in dig_calls:
 		currTotal = 0
 		currFinal = 0
-		if dig[utils.TIME_KEY]:
+		if dig[utils.SUCCESS_KEY]:
 			for query in dig[utils.QUERIES_KEY]:
 				currTotal += float(query[utils.TIME_KEY])
 				for answer in query[utils.ANSWERS_KEY]:
@@ -215,7 +215,7 @@ def count_different_dns_responses(filename1,filename2):
 	different_team_entries = set()
 	different_host = {}
 	with open(filename1, "r") as f1:
-		with open(flename2, "r") as f2:
+		with open(filename2, "r") as f2:
 			dig_json1 = json.load(f1)
 			dig_json2 = json.load(f2)
 			for hostname in dig_json1:
@@ -252,9 +252,10 @@ def count_different_dns_responses(filename1,filename2):
 
 
 
+# print count_different_dns_responses("dns_output_1.json", "dns_output_2.json")
 
 
 # run_dig("alexa_top_100", "dns_output_other_server.json", "188.94.241.79")
-print get_average_ttls("dns_output_1.json")
-# generate_time_cdfs("dns_output_1.json", "plot")
+# print get_average_ttls("dns_output_1.json")
+generate_time_cdfs("dns_output_1.json", "plot")
 # print get_average_times("dns_output_other_server.json")

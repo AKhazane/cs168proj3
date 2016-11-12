@@ -9,7 +9,7 @@ import os
 traceroute_json = {}
 def run_traceroute(hostnames, num_packets, output_filename):
         global traceroute_json
-        # traceroute_json["timestamp"] = time.time()
+        traceroute_json["timestamp"] = time.time()
         with open(output_filename, "w") as f:
                 for hostname in hostnames:
                         traceroute_json[hostname] = []
@@ -96,7 +96,7 @@ def retrieve_ASN(line2, info, index):
                         info['ASN'] = value
         return info 
 os.chdir(os.getcwd())
-run_traceroute(["google.com", "facebook.com", "www.berkeley.edu", "allspice.lcs.mit.edu", "todayhumor.co.kr", "www.city.kobe.lg.jp", "www.vutbr.cz", "zanvarsity.ac.tz"], 5, "traceroute.txt")
+run_traceroute(["google.com", "facebook.com", "www.berkeley.edu", "allspice.lcs.mit.edu", "todayhumor.co.kr", "www.city.kobe.lg.jp", "www.vutbr.cz", "41.204.128.169"], 5, "traceroute.txt")
 parse_traceroute("traceroute.txt", 'tr_a.json')
 # run_traceroute(["tpr-route-server.saix.net", "route-server.ip-plus.net", "route-views.oregon-ix.net", "route-views.on.bb.telus.com"], 3, "traceroute3.txt")
 # parse_traceroute("traceroute3.txt", 'tr_b.json')

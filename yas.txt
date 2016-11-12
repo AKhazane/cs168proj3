@@ -4,208 +4,67 @@
     "Success": true, 
     "Queries": [
       {
-        "Time in millis": "5022", 
-        "Answers": [
-          {
-            "Queried name": ".", 
-            "Type": "NS", 
-            "Data": "j.root-servers.net.", 
-            "TTL": "485078"
-          }, 
-          {
-            "Queried name": ".", 
-            "Type": "NS", 
-            "Data": "m.root-servers.net.", 
-            "TTL": "485078"
-          }, 
-          {
-            "Queried name": ".", 
-            "Type": "NS", 
-            "Data": "h.root-servers.net.", 
-            "TTL": "485078"
-          }, 
-          {
-            "Queried name": ".", 
-            "Type": "NS", 
-            "Data": "l.root-servers.net.", 
-            "TTL": "485078"
-          }, 
-          {
-            "Queried name": ".", 
-            "Type": "NS", 
-            "Data": "e.root-servers.net.", 
-            "TTL": "485078"
-          }, 
-          {
-            "Queried name": ".", 
-            "Type": "NS", 
-            "Data": "k.root-servers.net.", 
-            "TTL": "485078"
-          }, 
-          {
-            "Queried name": ".", 
-            "Type": "NS", 
-            "Data": "f.root-servers.net.", 
-            "TTL": "485078"
-          }, 
-          {
-            "Queried name": ".", 
-            "Type": "NS", 
-            "Data": "i.root-servers.net.", 
-            "TTL": "485078"
-          }, 
-          {
-            "Queried name": ".", 
-            "Type": "NS", 
-            "Data": "b.root-servers.net.", 
-            "TTL": "485078"
-          }, 
-          {
-            "Queried name": ".", 
-            "Type": "NS", 
-            "Data": "d.root-servers.net.", 
-            "TTL": "485078"
-          }, 
-          {
-            "Queried name": ".", 
-            "Type": "NS", 
-            "Data": "a.root-servers.net.", 
-            "TTL": "485078"
-          }, 
-          {
-            "Queried name": ".", 
-            "Type": "NS", 
-            "Data": "c.root-servers.net.", 
-            "TTL": "485078"
-          }, 
-          {
-            "Queried name": ".", 
-            "Type": "NS", 
-            "Data": "g.root-servers.net.", 
-            "TTL": "485078"
-          }
-        ]
-      }, 
-      {
-        "Time in millis": "39", 
-        "Answers": [
-          {
-            "Queried name": "com.", 
-            "Type": "NS", 
-            "Data": "a.gtld-servers.net.", 
-            "TTL": "172800"
-          }, 
-          {
-            "Queried name": "com.", 
-            "Type": "NS", 
-            "Data": "m.gtld-servers.net.", 
-            "TTL": "172800"
-          }, 
-          {
-            "Queried name": "com.", 
-            "Type": "NS", 
-            "Data": "b.gtld-servers.net.", 
-            "TTL": "172800"
-          }, 
-          {
-            "Queried name": "com.", 
-            "Type": "NS", 
-            "Data": "j.gtld-servers.net.", 
-            "TTL": "172800"
-          }, 
-          {
-            "Queried name": "com.", 
-            "Type": "NS", 
-            "Data": "e.gtld-servers.net.", 
-            "TTL": "172800"
-          }, 
-          {
-            "Queried name": "com.", 
-            "Type": "NS", 
-            "Data": "i.gtld-servers.net.", 
-            "TTL": "172800"
-          }, 
-          {
-            "Queried name": "com.", 
-            "Type": "NS", 
-            "Data": "g.gtld-servers.net.", 
-            "TTL": "172800"
-          }, 
-          {
-            "Queried name": "com.", 
-            "Type": "NS", 
-            "Data": "f.gtld-servers.net.", 
-            "TTL": "172800"
-          }, 
-          {
-            "Queried name": "com.", 
-            "Type": "NS", 
-            "Data": "k.gtld-servers.net.", 
-            "TTL": "172800"
-          }, 
-          {
-            "Queried name": "com.", 
-            "Type": "NS", 
-            "Data": "c.gtld-servers.net.", 
-            "TTL": "172800"
-          }, 
-          {
-            "Queried name": "com.", 
-            "Type": "NS", 
-            "Data": "h.gtld-servers.net.", 
-            "TTL": "172800"
-          }, 
-          {
-            "Queried name": "com.", 
-            "Type": "NS", 
-            "Data": "d.gtld-servers.net.", 
-            "TTL": "172800"
-          }, 
-          {
-            "Queried name": "com.", 
-            "Type": "NS", 
-            "Data": "l.gtld-servers.net.", 
-            "TTL": "172800"
-          }
-        ]
-      }, 
-      {
-        "Time in millis": "6", 
-        "Answers": [
-          {
-            "Queried name": "google.com.", 
-            "Type": "NS", 
-            "Data": "ns2.google.com.", 
-            "TTL": "172800"
-          }, 
-          {
-            "Queried name": "google.com.", 
-            "Type": "NS", 
-            "Data": "ns1.google.com.", 
-            "TTL": "172800"
-          }, 
-          {
-            "Queried name": "google.com.", 
-            "Type": "NS", 
-            "Data": "ns3.google.com.", 
-            "TTL": "172800"
-          }, 
-          {
-            "Queried name": "google.com.", 
-            "Type": "NS", 
-            "Data": "ns4.google.com.", 
-            "TTL": "172800"
-          }
-        ]
-      }, 
-      {
-        "Time in millis": "51", 
+        "Time in millis": "83", 
         "Answers": [
           {
             "Queried name": "google.com.", 
             "Type": "A", 
-            "Data": "216.58.192.14", 
+            "Data": "74.125.196.101", 
             "TTL": "300"
+          }, 
+          {
+            "Queried name": "google.com.", 
+            "Type": "A", 
+            "Data": "74.125.196.102", 
+            "TTL": "300"
+          }, 
+          {
+            "Queried name": "google.com.", 
+            "Type": "A", 
+            "Data": "74.125.196.113", 
+            "TTL": "300"
+          }, 
+          {
+            "Queried name": "google.com.", 
+            "Type": "A", 
+            "Data": "74.125.196.138", 
+            "TTL": "300"
+          }, 
+          {
+            "Queried name": "google.com.", 
+            "Type": "A", 
+            "Data": "74.125.196.139", 
+            "TTL": "300"
+          }, 
+          {
+            "Queried name": "google.com.", 
+            "Type": "A", 
+            "Data": "74.125.196.100", 
+            "TTL": "300"
+          }, 
+          {
+            "Queried name": "ns1.google.com.", 
+            "Type": "A", 
+            "Data": "216.239.32.10", 
+            "TTL": "308981"
+          }, 
+          {
+            "Queried name": "ns2.google.com.", 
+            "Type": "A", 
+            "Data": "216.239.34.10", 
+            "TTL": "308981"
+          }, 
+          {
+            "Queried name": "ns3.google.com.", 
+            "Type": "A", 
+            "Data": "216.239.36.10", 
+            "TTL": "308981"
+          }, 
+          {
+            "Queried name": "ns4.google.com.", 
+            "Type": "A", 
+            "Data": "216.239.38.10", 
+            "TTL": "308981"
           }
         ]
       }
@@ -216,208 +75,67 @@
     "Success": true, 
     "Queries": [
       {
-        "Time in millis": "14", 
-        "Answers": [
-          {
-            "Queried name": ".", 
-            "Type": "NS", 
-            "Data": "e.root-servers.net.", 
-            "TTL": "485072"
-          }, 
-          {
-            "Queried name": ".", 
-            "Type": "NS", 
-            "Data": "d.root-servers.net.", 
-            "TTL": "485072"
-          }, 
-          {
-            "Queried name": ".", 
-            "Type": "NS", 
-            "Data": "a.root-servers.net.", 
-            "TTL": "485072"
-          }, 
-          {
-            "Queried name": ".", 
-            "Type": "NS", 
-            "Data": "c.root-servers.net.", 
-            "TTL": "485072"
-          }, 
-          {
-            "Queried name": ".", 
-            "Type": "NS", 
-            "Data": "m.root-servers.net.", 
-            "TTL": "485072"
-          }, 
-          {
-            "Queried name": ".", 
-            "Type": "NS", 
-            "Data": "l.root-servers.net.", 
-            "TTL": "485072"
-          }, 
-          {
-            "Queried name": ".", 
-            "Type": "NS", 
-            "Data": "h.root-servers.net.", 
-            "TTL": "485072"
-          }, 
-          {
-            "Queried name": ".", 
-            "Type": "NS", 
-            "Data": "i.root-servers.net.", 
-            "TTL": "485072"
-          }, 
-          {
-            "Queried name": ".", 
-            "Type": "NS", 
-            "Data": "j.root-servers.net.", 
-            "TTL": "485072"
-          }, 
-          {
-            "Queried name": ".", 
-            "Type": "NS", 
-            "Data": "f.root-servers.net.", 
-            "TTL": "485072"
-          }, 
-          {
-            "Queried name": ".", 
-            "Type": "NS", 
-            "Data": "g.root-servers.net.", 
-            "TTL": "485072"
-          }, 
-          {
-            "Queried name": ".", 
-            "Type": "NS", 
-            "Data": "b.root-servers.net.", 
-            "TTL": "485072"
-          }, 
-          {
-            "Queried name": ".", 
-            "Type": "NS", 
-            "Data": "k.root-servers.net.", 
-            "TTL": "485072"
-          }
-        ]
-      }, 
-      {
-        "Time in millis": "95", 
-        "Answers": [
-          {
-            "Queried name": "com.", 
-            "Type": "NS", 
-            "Data": "i.gtld-servers.net.", 
-            "TTL": "172800"
-          }, 
-          {
-            "Queried name": "com.", 
-            "Type": "NS", 
-            "Data": "d.gtld-servers.net.", 
-            "TTL": "172800"
-          }, 
-          {
-            "Queried name": "com.", 
-            "Type": "NS", 
-            "Data": "a.gtld-servers.net.", 
-            "TTL": "172800"
-          }, 
-          {
-            "Queried name": "com.", 
-            "Type": "NS", 
-            "Data": "k.gtld-servers.net.", 
-            "TTL": "172800"
-          }, 
-          {
-            "Queried name": "com.", 
-            "Type": "NS", 
-            "Data": "g.gtld-servers.net.", 
-            "TTL": "172800"
-          }, 
-          {
-            "Queried name": "com.", 
-            "Type": "NS", 
-            "Data": "j.gtld-servers.net.", 
-            "TTL": "172800"
-          }, 
-          {
-            "Queried name": "com.", 
-            "Type": "NS", 
-            "Data": "m.gtld-servers.net.", 
-            "TTL": "172800"
-          }, 
-          {
-            "Queried name": "com.", 
-            "Type": "NS", 
-            "Data": "f.gtld-servers.net.", 
-            "TTL": "172800"
-          }, 
-          {
-            "Queried name": "com.", 
-            "Type": "NS", 
-            "Data": "h.gtld-servers.net.", 
-            "TTL": "172800"
-          }, 
-          {
-            "Queried name": "com.", 
-            "Type": "NS", 
-            "Data": "b.gtld-servers.net.", 
-            "TTL": "172800"
-          }, 
-          {
-            "Queried name": "com.", 
-            "Type": "NS", 
-            "Data": "c.gtld-servers.net.", 
-            "TTL": "172800"
-          }, 
-          {
-            "Queried name": "com.", 
-            "Type": "NS", 
-            "Data": "e.gtld-servers.net.", 
-            "TTL": "172800"
-          }, 
-          {
-            "Queried name": "com.", 
-            "Type": "NS", 
-            "Data": "l.gtld-servers.net.", 
-            "TTL": "172800"
-          }
-        ]
-      }, 
-      {
-        "Time in millis": "169", 
-        "Answers": [
-          {
-            "Queried name": "google.com.", 
-            "Type": "NS", 
-            "Data": "ns2.google.com.", 
-            "TTL": "172800"
-          }, 
-          {
-            "Queried name": "google.com.", 
-            "Type": "NS", 
-            "Data": "ns1.google.com.", 
-            "TTL": "172800"
-          }, 
-          {
-            "Queried name": "google.com.", 
-            "Type": "NS", 
-            "Data": "ns3.google.com.", 
-            "TTL": "172800"
-          }, 
-          {
-            "Queried name": "google.com.", 
-            "Type": "NS", 
-            "Data": "ns4.google.com.", 
-            "TTL": "172800"
-          }
-        ]
-      }, 
-      {
-        "Time in millis": "68", 
+        "Time in millis": "70", 
         "Answers": [
           {
             "Queried name": "google.com.", 
             "Type": "A", 
-            "Data": "216.58.194.206", 
+            "Data": "74.125.196.139", 
             "TTL": "300"
+          }, 
+          {
+            "Queried name": "google.com.", 
+            "Type": "A", 
+            "Data": "74.125.196.100", 
+            "TTL": "300"
+          }, 
+          {
+            "Queried name": "google.com.", 
+            "Type": "A", 
+            "Data": "74.125.196.101", 
+            "TTL": "300"
+          }, 
+          {
+            "Queried name": "google.com.", 
+            "Type": "A", 
+            "Data": "74.125.196.102", 
+            "TTL": "300"
+          }, 
+          {
+            "Queried name": "google.com.", 
+            "Type": "A", 
+            "Data": "74.125.196.113", 
+            "TTL": "300"
+          }, 
+          {
+            "Queried name": "google.com.", 
+            "Type": "A", 
+            "Data": "74.125.196.138", 
+            "TTL": "300"
+          }, 
+          {
+            "Queried name": "ns1.google.com.", 
+            "Type": "A", 
+            "Data": "216.239.32.10", 
+            "TTL": "308981"
+          }, 
+          {
+            "Queried name": "ns2.google.com.", 
+            "Type": "A", 
+            "Data": "216.239.34.10", 
+            "TTL": "308981"
+          }, 
+          {
+            "Queried name": "ns3.google.com.", 
+            "Type": "A", 
+            "Data": "216.239.36.10", 
+            "TTL": "308981"
+          }, 
+          {
+            "Queried name": "ns4.google.com.", 
+            "Type": "A", 
+            "Data": "216.239.38.10", 
+            "TTL": "308981"
           }
         ]
       }
@@ -428,208 +146,67 @@
     "Success": true, 
     "Queries": [
       {
-        "Time in millis": "10", 
-        "Answers": [
-          {
-            "Queried name": ".", 
-            "Type": "NS", 
-            "Data": "e.root-servers.net.", 
-            "TTL": "485070"
-          }, 
-          {
-            "Queried name": ".", 
-            "Type": "NS", 
-            "Data": "h.root-servers.net.", 
-            "TTL": "485070"
-          }, 
-          {
-            "Queried name": ".", 
-            "Type": "NS", 
-            "Data": "d.root-servers.net.", 
-            "TTL": "485070"
-          }, 
-          {
-            "Queried name": ".", 
-            "Type": "NS", 
-            "Data": "a.root-servers.net.", 
-            "TTL": "485070"
-          }, 
-          {
-            "Queried name": ".", 
-            "Type": "NS", 
-            "Data": "c.root-servers.net.", 
-            "TTL": "485070"
-          }, 
-          {
-            "Queried name": ".", 
-            "Type": "NS", 
-            "Data": "g.root-servers.net.", 
-            "TTL": "485070"
-          }, 
-          {
-            "Queried name": ".", 
-            "Type": "NS", 
-            "Data": "k.root-servers.net.", 
-            "TTL": "485070"
-          }, 
-          {
-            "Queried name": ".", 
-            "Type": "NS", 
-            "Data": "m.root-servers.net.", 
-            "TTL": "485070"
-          }, 
-          {
-            "Queried name": ".", 
-            "Type": "NS", 
-            "Data": "b.root-servers.net.", 
-            "TTL": "485070"
-          }, 
-          {
-            "Queried name": ".", 
-            "Type": "NS", 
-            "Data": "l.root-servers.net.", 
-            "TTL": "485070"
-          }, 
-          {
-            "Queried name": ".", 
-            "Type": "NS", 
-            "Data": "i.root-servers.net.", 
-            "TTL": "485070"
-          }, 
-          {
-            "Queried name": ".", 
-            "Type": "NS", 
-            "Data": "j.root-servers.net.", 
-            "TTL": "485070"
-          }, 
-          {
-            "Queried name": ".", 
-            "Type": "NS", 
-            "Data": "f.root-servers.net.", 
-            "TTL": "485070"
-          }
-        ]
-      }, 
-      {
-        "Time in millis": "34", 
-        "Answers": [
-          {
-            "Queried name": "com.", 
-            "Type": "NS", 
-            "Data": "a.gtld-servers.net.", 
-            "TTL": "172800"
-          }, 
-          {
-            "Queried name": "com.", 
-            "Type": "NS", 
-            "Data": "b.gtld-servers.net.", 
-            "TTL": "172800"
-          }, 
-          {
-            "Queried name": "com.", 
-            "Type": "NS", 
-            "Data": "c.gtld-servers.net.", 
-            "TTL": "172800"
-          }, 
-          {
-            "Queried name": "com.", 
-            "Type": "NS", 
-            "Data": "d.gtld-servers.net.", 
-            "TTL": "172800"
-          }, 
-          {
-            "Queried name": "com.", 
-            "Type": "NS", 
-            "Data": "e.gtld-servers.net.", 
-            "TTL": "172800"
-          }, 
-          {
-            "Queried name": "com.", 
-            "Type": "NS", 
-            "Data": "f.gtld-servers.net.", 
-            "TTL": "172800"
-          }, 
-          {
-            "Queried name": "com.", 
-            "Type": "NS", 
-            "Data": "g.gtld-servers.net.", 
-            "TTL": "172800"
-          }, 
-          {
-            "Queried name": "com.", 
-            "Type": "NS", 
-            "Data": "h.gtld-servers.net.", 
-            "TTL": "172800"
-          }, 
-          {
-            "Queried name": "com.", 
-            "Type": "NS", 
-            "Data": "i.gtld-servers.net.", 
-            "TTL": "172800"
-          }, 
-          {
-            "Queried name": "com.", 
-            "Type": "NS", 
-            "Data": "j.gtld-servers.net.", 
-            "TTL": "172800"
-          }, 
-          {
-            "Queried name": "com.", 
-            "Type": "NS", 
-            "Data": "k.gtld-servers.net.", 
-            "TTL": "172800"
-          }, 
-          {
-            "Queried name": "com.", 
-            "Type": "NS", 
-            "Data": "l.gtld-servers.net.", 
-            "TTL": "172800"
-          }, 
-          {
-            "Queried name": "com.", 
-            "Type": "NS", 
-            "Data": "m.gtld-servers.net.", 
-            "TTL": "172800"
-          }
-        ]
-      }, 
-      {
-        "Time in millis": "27", 
-        "Answers": [
-          {
-            "Queried name": "google.com.", 
-            "Type": "NS", 
-            "Data": "ns2.google.com.", 
-            "TTL": "172800"
-          }, 
-          {
-            "Queried name": "google.com.", 
-            "Type": "NS", 
-            "Data": "ns1.google.com.", 
-            "TTL": "172800"
-          }, 
-          {
-            "Queried name": "google.com.", 
-            "Type": "NS", 
-            "Data": "ns3.google.com.", 
-            "TTL": "172800"
-          }, 
-          {
-            "Queried name": "google.com.", 
-            "Type": "NS", 
-            "Data": "ns4.google.com.", 
-            "TTL": "172800"
-          }
-        ]
-      }, 
-      {
-        "Time in millis": "68", 
+        "Time in millis": "73", 
         "Answers": [
           {
             "Queried name": "google.com.", 
             "Type": "A", 
-            "Data": "216.58.194.206", 
+            "Data": "74.125.196.138", 
             "TTL": "300"
+          }, 
+          {
+            "Queried name": "google.com.", 
+            "Type": "A", 
+            "Data": "74.125.196.139", 
+            "TTL": "300"
+          }, 
+          {
+            "Queried name": "google.com.", 
+            "Type": "A", 
+            "Data": "74.125.196.100", 
+            "TTL": "300"
+          }, 
+          {
+            "Queried name": "google.com.", 
+            "Type": "A", 
+            "Data": "74.125.196.101", 
+            "TTL": "300"
+          }, 
+          {
+            "Queried name": "google.com.", 
+            "Type": "A", 
+            "Data": "74.125.196.102", 
+            "TTL": "300"
+          }, 
+          {
+            "Queried name": "google.com.", 
+            "Type": "A", 
+            "Data": "74.125.196.113", 
+            "TTL": "300"
+          }, 
+          {
+            "Queried name": "ns1.google.com.", 
+            "Type": "A", 
+            "Data": "216.239.32.10", 
+            "TTL": "308981"
+          }, 
+          {
+            "Queried name": "ns2.google.com.", 
+            "Type": "A", 
+            "Data": "216.239.34.10", 
+            "TTL": "308981"
+          }, 
+          {
+            "Queried name": "ns3.google.com.", 
+            "Type": "A", 
+            "Data": "216.239.36.10", 
+            "TTL": "308981"
+          }, 
+          {
+            "Queried name": "ns4.google.com.", 
+            "Type": "A", 
+            "Data": "216.239.38.10", 
+            "TTL": "308981"
           }
         ]
       }
@@ -640,208 +217,67 @@
     "Success": true, 
     "Queries": [
       {
-        "Time in millis": "16", 
-        "Answers": [
-          {
-            "Queried name": ".", 
-            "Type": "NS", 
-            "Data": "g.root-servers.net.", 
-            "TTL": "485066"
-          }, 
-          {
-            "Queried name": ".", 
-            "Type": "NS", 
-            "Data": "a.root-servers.net.", 
-            "TTL": "485066"
-          }, 
-          {
-            "Queried name": ".", 
-            "Type": "NS", 
-            "Data": "c.root-servers.net.", 
-            "TTL": "485066"
-          }, 
-          {
-            "Queried name": ".", 
-            "Type": "NS", 
-            "Data": "h.root-servers.net.", 
-            "TTL": "485066"
-          }, 
-          {
-            "Queried name": ".", 
-            "Type": "NS", 
-            "Data": "d.root-servers.net.", 
-            "TTL": "485066"
-          }, 
-          {
-            "Queried name": ".", 
-            "Type": "NS", 
-            "Data": "i.root-servers.net.", 
-            "TTL": "485066"
-          }, 
-          {
-            "Queried name": ".", 
-            "Type": "NS", 
-            "Data": "k.root-servers.net.", 
-            "TTL": "485066"
-          }, 
-          {
-            "Queried name": ".", 
-            "Type": "NS", 
-            "Data": "m.root-servers.net.", 
-            "TTL": "485066"
-          }, 
-          {
-            "Queried name": ".", 
-            "Type": "NS", 
-            "Data": "l.root-servers.net.", 
-            "TTL": "485066"
-          }, 
-          {
-            "Queried name": ".", 
-            "Type": "NS", 
-            "Data": "j.root-servers.net.", 
-            "TTL": "485066"
-          }, 
-          {
-            "Queried name": ".", 
-            "Type": "NS", 
-            "Data": "b.root-servers.net.", 
-            "TTL": "485066"
-          }, 
-          {
-            "Queried name": ".", 
-            "Type": "NS", 
-            "Data": "e.root-servers.net.", 
-            "TTL": "485066"
-          }, 
-          {
-            "Queried name": ".", 
-            "Type": "NS", 
-            "Data": "f.root-servers.net.", 
-            "TTL": "485066"
-          }
-        ]
-      }, 
-      {
-        "Time in millis": "93", 
-        "Answers": [
-          {
-            "Queried name": "com.", 
-            "Type": "NS", 
-            "Data": "j.gtld-servers.net.", 
-            "TTL": "172800"
-          }, 
-          {
-            "Queried name": "com.", 
-            "Type": "NS", 
-            "Data": "i.gtld-servers.net.", 
-            "TTL": "172800"
-          }, 
-          {
-            "Queried name": "com.", 
-            "Type": "NS", 
-            "Data": "m.gtld-servers.net.", 
-            "TTL": "172800"
-          }, 
-          {
-            "Queried name": "com.", 
-            "Type": "NS", 
-            "Data": "l.gtld-servers.net.", 
-            "TTL": "172800"
-          }, 
-          {
-            "Queried name": "com.", 
-            "Type": "NS", 
-            "Data": "c.gtld-servers.net.", 
-            "TTL": "172800"
-          }, 
-          {
-            "Queried name": "com.", 
-            "Type": "NS", 
-            "Data": "d.gtld-servers.net.", 
-            "TTL": "172800"
-          }, 
-          {
-            "Queried name": "com.", 
-            "Type": "NS", 
-            "Data": "k.gtld-servers.net.", 
-            "TTL": "172800"
-          }, 
-          {
-            "Queried name": "com.", 
-            "Type": "NS", 
-            "Data": "a.gtld-servers.net.", 
-            "TTL": "172800"
-          }, 
-          {
-            "Queried name": "com.", 
-            "Type": "NS", 
-            "Data": "b.gtld-servers.net.", 
-            "TTL": "172800"
-          }, 
-          {
-            "Queried name": "com.", 
-            "Type": "NS", 
-            "Data": "f.gtld-servers.net.", 
-            "TTL": "172800"
-          }, 
-          {
-            "Queried name": "com.", 
-            "Type": "NS", 
-            "Data": "h.gtld-servers.net.", 
-            "TTL": "172800"
-          }, 
-          {
-            "Queried name": "com.", 
-            "Type": "NS", 
-            "Data": "g.gtld-servers.net.", 
-            "TTL": "172800"
-          }, 
-          {
-            "Queried name": "com.", 
-            "Type": "NS", 
-            "Data": "e.gtld-servers.net.", 
-            "TTL": "172800"
-          }
-        ]
-      }, 
-      {
-        "Time in millis": "16", 
-        "Answers": [
-          {
-            "Queried name": "google.com.", 
-            "Type": "NS", 
-            "Data": "ns2.google.com.", 
-            "TTL": "172800"
-          }, 
-          {
-            "Queried name": "google.com.", 
-            "Type": "NS", 
-            "Data": "ns1.google.com.", 
-            "TTL": "172800"
-          }, 
-          {
-            "Queried name": "google.com.", 
-            "Type": "NS", 
-            "Data": "ns3.google.com.", 
-            "TTL": "172800"
-          }, 
-          {
-            "Queried name": "google.com.", 
-            "Type": "NS", 
-            "Data": "ns4.google.com.", 
-            "TTL": "172800"
-          }
-        ]
-      }, 
-      {
-        "Time in millis": "48", 
+        "Time in millis": "70", 
         "Answers": [
           {
             "Queried name": "google.com.", 
             "Type": "A", 
-            "Data": "216.58.194.206", 
+            "Data": "74.125.196.139", 
             "TTL": "300"
+          }, 
+          {
+            "Queried name": "google.com.", 
+            "Type": "A", 
+            "Data": "74.125.196.100", 
+            "TTL": "300"
+          }, 
+          {
+            "Queried name": "google.com.", 
+            "Type": "A", 
+            "Data": "74.125.196.101", 
+            "TTL": "300"
+          }, 
+          {
+            "Queried name": "google.com.", 
+            "Type": "A", 
+            "Data": "74.125.196.102", 
+            "TTL": "300"
+          }, 
+          {
+            "Queried name": "google.com.", 
+            "Type": "A", 
+            "Data": "74.125.196.113", 
+            "TTL": "300"
+          }, 
+          {
+            "Queried name": "google.com.", 
+            "Type": "A", 
+            "Data": "74.125.196.138", 
+            "TTL": "300"
+          }, 
+          {
+            "Queried name": "ns1.google.com.", 
+            "Type": "A", 
+            "Data": "216.239.32.10", 
+            "TTL": "308981"
+          }, 
+          {
+            "Queried name": "ns2.google.com.", 
+            "Type": "A", 
+            "Data": "216.239.34.10", 
+            "TTL": "308981"
+          }, 
+          {
+            "Queried name": "ns3.google.com.", 
+            "Type": "A", 
+            "Data": "216.239.36.10", 
+            "TTL": "308981"
+          }, 
+          {
+            "Queried name": "ns4.google.com.", 
+            "Type": "A", 
+            "Data": "216.239.38.10", 
+            "TTL": "308981"
           }
         ]
       }
@@ -852,211 +288,3564 @@
     "Success": true, 
     "Queries": [
       {
-        "Time in millis": "18", 
-        "Answers": [
-          {
-            "Queried name": ".", 
-            "Type": "NS", 
-            "Data": "l.root-servers.net.", 
-            "TTL": "485065"
-          }, 
-          {
-            "Queried name": ".", 
-            "Type": "NS", 
-            "Data": "e.root-servers.net.", 
-            "TTL": "485065"
-          }, 
-          {
-            "Queried name": ".", 
-            "Type": "NS", 
-            "Data": "c.root-servers.net.", 
-            "TTL": "485065"
-          }, 
-          {
-            "Queried name": ".", 
-            "Type": "NS", 
-            "Data": "m.root-servers.net.", 
-            "TTL": "485065"
-          }, 
-          {
-            "Queried name": ".", 
-            "Type": "NS", 
-            "Data": "a.root-servers.net.", 
-            "TTL": "485065"
-          }, 
-          {
-            "Queried name": ".", 
-            "Type": "NS", 
-            "Data": "i.root-servers.net.", 
-            "TTL": "485065"
-          }, 
-          {
-            "Queried name": ".", 
-            "Type": "NS", 
-            "Data": "f.root-servers.net.", 
-            "TTL": "485065"
-          }, 
-          {
-            "Queried name": ".", 
-            "Type": "NS", 
-            "Data": "j.root-servers.net.", 
-            "TTL": "485065"
-          }, 
-          {
-            "Queried name": ".", 
-            "Type": "NS", 
-            "Data": "k.root-servers.net.", 
-            "TTL": "485065"
-          }, 
-          {
-            "Queried name": ".", 
-            "Type": "NS", 
-            "Data": "b.root-servers.net.", 
-            "TTL": "485065"
-          }, 
-          {
-            "Queried name": ".", 
-            "Type": "NS", 
-            "Data": "h.root-servers.net.", 
-            "TTL": "485065"
-          }, 
-          {
-            "Queried name": ".", 
-            "Type": "NS", 
-            "Data": "g.root-servers.net.", 
-            "TTL": "485065"
-          }, 
-          {
-            "Queried name": ".", 
-            "Type": "NS", 
-            "Data": "d.root-servers.net.", 
-            "TTL": "485065"
-          }
-        ]
-      }, 
-      {
-        "Time in millis": "14", 
-        "Answers": [
-          {
-            "Queried name": "com.", 
-            "Type": "NS", 
-            "Data": "k.gtld-servers.net.", 
-            "TTL": "172800"
-          }, 
-          {
-            "Queried name": "com.", 
-            "Type": "NS", 
-            "Data": "m.gtld-servers.net.", 
-            "TTL": "172800"
-          }, 
-          {
-            "Queried name": "com.", 
-            "Type": "NS", 
-            "Data": "e.gtld-servers.net.", 
-            "TTL": "172800"
-          }, 
-          {
-            "Queried name": "com.", 
-            "Type": "NS", 
-            "Data": "f.gtld-servers.net.", 
-            "TTL": "172800"
-          }, 
-          {
-            "Queried name": "com.", 
-            "Type": "NS", 
-            "Data": "d.gtld-servers.net.", 
-            "TTL": "172800"
-          }, 
-          {
-            "Queried name": "com.", 
-            "Type": "NS", 
-            "Data": "g.gtld-servers.net.", 
-            "TTL": "172800"
-          }, 
-          {
-            "Queried name": "com.", 
-            "Type": "NS", 
-            "Data": "j.gtld-servers.net.", 
-            "TTL": "172800"
-          }, 
-          {
-            "Queried name": "com.", 
-            "Type": "NS", 
-            "Data": "a.gtld-servers.net.", 
-            "TTL": "172800"
-          }, 
-          {
-            "Queried name": "com.", 
-            "Type": "NS", 
-            "Data": "l.gtld-servers.net.", 
-            "TTL": "172800"
-          }, 
-          {
-            "Queried name": "com.", 
-            "Type": "NS", 
-            "Data": "c.gtld-servers.net.", 
-            "TTL": "172800"
-          }, 
-          {
-            "Queried name": "com.", 
-            "Type": "NS", 
-            "Data": "b.gtld-servers.net.", 
-            "TTL": "172800"
-          }, 
-          {
-            "Queried name": "com.", 
-            "Type": "NS", 
-            "Data": "h.gtld-servers.net.", 
-            "TTL": "172800"
-          }, 
-          {
-            "Queried name": "com.", 
-            "Type": "NS", 
-            "Data": "i.gtld-servers.net.", 
-            "TTL": "172800"
-          }
-        ]
-      }, 
-      {
-        "Time in millis": "16", 
-        "Answers": [
-          {
-            "Queried name": "google.com.", 
-            "Type": "NS", 
-            "Data": "ns2.google.com.", 
-            "TTL": "172800"
-          }, 
-          {
-            "Queried name": "google.com.", 
-            "Type": "NS", 
-            "Data": "ns1.google.com.", 
-            "TTL": "172800"
-          }, 
-          {
-            "Queried name": "google.com.", 
-            "Type": "NS", 
-            "Data": "ns3.google.com.", 
-            "TTL": "172800"
-          }, 
-          {
-            "Queried name": "google.com.", 
-            "Type": "NS", 
-            "Data": "ns4.google.com.", 
-            "TTL": "172800"
-          }
-        ]
-      }, 
-      {
-        "Time in millis": "20", 
+        "Time in millis": "71", 
         "Answers": [
           {
             "Queried name": "google.com.", 
             "Type": "A", 
-            "Data": "216.58.194.206", 
+            "Data": "74.125.196.139", 
+            "TTL": "300"
+          }, 
+          {
+            "Queried name": "google.com.", 
+            "Type": "A", 
+            "Data": "74.125.196.100", 
+            "TTL": "300"
+          }, 
+          {
+            "Queried name": "google.com.", 
+            "Type": "A", 
+            "Data": "74.125.196.101", 
+            "TTL": "300"
+          }, 
+          {
+            "Queried name": "google.com.", 
+            "Type": "A", 
+            "Data": "74.125.196.102", 
+            "TTL": "300"
+          }, 
+          {
+            "Queried name": "google.com.", 
+            "Type": "A", 
+            "Data": "74.125.196.113", 
+            "TTL": "300"
+          }, 
+          {
+            "Queried name": "google.com.", 
+            "Type": "A", 
+            "Data": "74.125.196.138", 
+            "TTL": "300"
+          }, 
+          {
+            "Queried name": "ns1.google.com.", 
+            "Type": "A", 
+            "Data": "216.239.32.10", 
+            "TTL": "308981"
+          }, 
+          {
+            "Queried name": "ns2.google.com.", 
+            "Type": "A", 
+            "Data": "216.239.34.10", 
+            "TTL": "308981"
+          }, 
+          {
+            "Queried name": "ns3.google.com.", 
+            "Type": "A", 
+            "Data": "216.239.36.10", 
+            "TTL": "308981"
+          }, 
+          {
+            "Queried name": "ns4.google.com.", 
+            "Type": "A", 
+            "Data": "216.239.38.10", 
+            "TTL": "308981"
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Name": "youtube.com", 
+    "Success": true, 
+    "Queries": [
+      {
+        "Time in millis": "84", 
+        "Answers": [
+          {
+            "Queried name": "youtube.com.", 
+            "Type": "A", 
+            "Data": "198.231.29.30", 
+            "TTL": "300"
+          }, 
+          {
+            "Queried name": "youtube.com.", 
+            "Type": "A", 
+            "Data": "198.231.29.34", 
+            "TTL": "300"
+          }, 
+          {
+            "Queried name": "youtube.com.", 
+            "Type": "A", 
+            "Data": "198.231.29.38", 
+            "TTL": "300"
+          }, 
+          {
+            "Queried name": "youtube.com.", 
+            "Type": "A", 
+            "Data": "198.231.29.42", 
+            "TTL": "300"
+          }, 
+          {
+            "Queried name": "youtube.com.", 
+            "Type": "A", 
+            "Data": "198.231.29.44", 
+            "TTL": "300"
+          }, 
+          {
+            "Queried name": "youtube.com.", 
+            "Type": "A", 
+            "Data": "198.231.29.45", 
+            "TTL": "300"
+          }, 
+          {
+            "Queried name": "youtube.com.", 
+            "Type": "A", 
+            "Data": "198.231.29.49", 
+            "TTL": "300"
+          }, 
+          {
+            "Queried name": "youtube.com.", 
+            "Type": "A", 
+            "Data": "198.231.29.53", 
+            "TTL": "300"
+          }, 
+          {
+            "Queried name": "youtube.com.", 
+            "Type": "A", 
+            "Data": "198.231.29.57", 
+            "TTL": "300"
+          }, 
+          {
+            "Queried name": "youtube.com.", 
+            "Type": "A", 
+            "Data": "198.231.29.59", 
+            "TTL": "300"
+          }, 
+          {
+            "Queried name": "youtube.com.", 
+            "Type": "A", 
+            "Data": "198.231.29.15", 
+            "TTL": "300"
+          }, 
+          {
+            "Queried name": "youtube.com.", 
+            "Type": "A", 
+            "Data": "198.231.29.19", 
+            "TTL": "300"
+          }, 
+          {
+            "Queried name": "youtube.com.", 
+            "Type": "A", 
+            "Data": "198.231.29.23", 
+            "TTL": "300"
+          }, 
+          {
+            "Queried name": "youtube.com.", 
+            "Type": "A", 
+            "Data": "198.231.29.27", 
+            "TTL": "300"
+          }, 
+          {
+            "Queried name": "youtube.com.", 
+            "Type": "A", 
+            "Data": "198.231.29.29", 
+            "TTL": "300"
+          }, 
+          {
+            "Queried name": "ns1.google.com.", 
+            "Type": "A", 
+            "Data": "216.239.32.10", 
+            "TTL": "308981"
+          }, 
+          {
+            "Queried name": "ns2.google.com.", 
+            "Type": "A", 
+            "Data": "216.239.34.10", 
+            "TTL": "308981"
+          }, 
+          {
+            "Queried name": "ns3.google.com.", 
+            "Type": "A", 
+            "Data": "216.239.36.10", 
+            "TTL": "308981"
+          }, 
+          {
+            "Queried name": "ns4.google.com.", 
+            "Type": "A", 
+            "Data": "216.239.38.10", 
+            "TTL": "308981"
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Name": "youtube.com", 
+    "Success": true, 
+    "Queries": [
+      {
+        "Time in millis": "74", 
+        "Answers": [
+          {
+            "Queried name": "youtube.com.", 
+            "Type": "A", 
+            "Data": "198.231.29.29", 
+            "TTL": "300"
+          }, 
+          {
+            "Queried name": "youtube.com.", 
+            "Type": "A", 
+            "Data": "198.231.29.30", 
+            "TTL": "300"
+          }, 
+          {
+            "Queried name": "youtube.com.", 
+            "Type": "A", 
+            "Data": "198.231.29.34", 
+            "TTL": "300"
+          }, 
+          {
+            "Queried name": "youtube.com.", 
+            "Type": "A", 
+            "Data": "198.231.29.38", 
+            "TTL": "300"
+          }, 
+          {
+            "Queried name": "youtube.com.", 
+            "Type": "A", 
+            "Data": "198.231.29.42", 
+            "TTL": "300"
+          }, 
+          {
+            "Queried name": "youtube.com.", 
+            "Type": "A", 
+            "Data": "198.231.29.44", 
+            "TTL": "300"
+          }, 
+          {
+            "Queried name": "youtube.com.", 
+            "Type": "A", 
+            "Data": "198.231.29.45", 
+            "TTL": "300"
+          }, 
+          {
+            "Queried name": "youtube.com.", 
+            "Type": "A", 
+            "Data": "198.231.29.49", 
+            "TTL": "300"
+          }, 
+          {
+            "Queried name": "youtube.com.", 
+            "Type": "A", 
+            "Data": "198.231.29.53", 
+            "TTL": "300"
+          }, 
+          {
+            "Queried name": "youtube.com.", 
+            "Type": "A", 
+            "Data": "198.231.29.57", 
+            "TTL": "300"
+          }, 
+          {
+            "Queried name": "youtube.com.", 
+            "Type": "A", 
+            "Data": "198.231.29.59", 
+            "TTL": "300"
+          }, 
+          {
+            "Queried name": "youtube.com.", 
+            "Type": "A", 
+            "Data": "198.231.29.15", 
+            "TTL": "300"
+          }, 
+          {
+            "Queried name": "youtube.com.", 
+            "Type": "A", 
+            "Data": "198.231.29.19", 
+            "TTL": "300"
+          }, 
+          {
+            "Queried name": "youtube.com.", 
+            "Type": "A", 
+            "Data": "198.231.29.23", 
+            "TTL": "300"
+          }, 
+          {
+            "Queried name": "youtube.com.", 
+            "Type": "A", 
+            "Data": "198.231.29.27", 
+            "TTL": "300"
+          }, 
+          {
+            "Queried name": "ns1.google.com.", 
+            "Type": "A", 
+            "Data": "216.239.32.10", 
+            "TTL": "308981"
+          }, 
+          {
+            "Queried name": "ns2.google.com.", 
+            "Type": "A", 
+            "Data": "216.239.34.10", 
+            "TTL": "308981"
+          }, 
+          {
+            "Queried name": "ns3.google.com.", 
+            "Type": "A", 
+            "Data": "216.239.36.10", 
+            "TTL": "308981"
+          }, 
+          {
+            "Queried name": "ns4.google.com.", 
+            "Type": "A", 
+            "Data": "216.239.38.10", 
+            "TTL": "308981"
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Name": "youtube.com", 
+    "Success": true, 
+    "Queries": [
+      {
+        "Time in millis": "71", 
+        "Answers": [
+          {
+            "Queried name": "youtube.com.", 
+            "Type": "A", 
+            "Data": "198.231.29.34", 
+            "TTL": "300"
+          }, 
+          {
+            "Queried name": "youtube.com.", 
+            "Type": "A", 
+            "Data": "198.231.29.38", 
+            "TTL": "300"
+          }, 
+          {
+            "Queried name": "youtube.com.", 
+            "Type": "A", 
+            "Data": "198.231.29.42", 
+            "TTL": "300"
+          }, 
+          {
+            "Queried name": "youtube.com.", 
+            "Type": "A", 
+            "Data": "198.231.29.44", 
+            "TTL": "300"
+          }, 
+          {
+            "Queried name": "youtube.com.", 
+            "Type": "A", 
+            "Data": "198.231.29.45", 
+            "TTL": "300"
+          }, 
+          {
+            "Queried name": "youtube.com.", 
+            "Type": "A", 
+            "Data": "198.231.29.49", 
+            "TTL": "300"
+          }, 
+          {
+            "Queried name": "youtube.com.", 
+            "Type": "A", 
+            "Data": "198.231.29.53", 
+            "TTL": "300"
+          }, 
+          {
+            "Queried name": "youtube.com.", 
+            "Type": "A", 
+            "Data": "198.231.29.57", 
+            "TTL": "300"
+          }, 
+          {
+            "Queried name": "youtube.com.", 
+            "Type": "A", 
+            "Data": "198.231.29.59", 
+            "TTL": "300"
+          }, 
+          {
+            "Queried name": "youtube.com.", 
+            "Type": "A", 
+            "Data": "198.231.29.15", 
+            "TTL": "300"
+          }, 
+          {
+            "Queried name": "youtube.com.", 
+            "Type": "A", 
+            "Data": "198.231.29.19", 
+            "TTL": "300"
+          }, 
+          {
+            "Queried name": "youtube.com.", 
+            "Type": "A", 
+            "Data": "198.231.29.23", 
+            "TTL": "300"
+          }, 
+          {
+            "Queried name": "youtube.com.", 
+            "Type": "A", 
+            "Data": "198.231.29.27", 
+            "TTL": "300"
+          }, 
+          {
+            "Queried name": "youtube.com.", 
+            "Type": "A", 
+            "Data": "198.231.29.29", 
+            "TTL": "300"
+          }, 
+          {
+            "Queried name": "youtube.com.", 
+            "Type": "A", 
+            "Data": "198.231.29.30", 
+            "TTL": "300"
+          }, 
+          {
+            "Queried name": "ns1.google.com.", 
+            "Type": "A", 
+            "Data": "216.239.32.10", 
+            "TTL": "308981"
+          }, 
+          {
+            "Queried name": "ns2.google.com.", 
+            "Type": "A", 
+            "Data": "216.239.34.10", 
+            "TTL": "308981"
+          }, 
+          {
+            "Queried name": "ns3.google.com.", 
+            "Type": "A", 
+            "Data": "216.239.36.10", 
+            "TTL": "308981"
+          }, 
+          {
+            "Queried name": "ns4.google.com.", 
+            "Type": "A", 
+            "Data": "216.239.38.10", 
+            "TTL": "308981"
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Name": "youtube.com", 
+    "Success": true, 
+    "Queries": [
+      {
+        "Time in millis": "71", 
+        "Answers": [
+          {
+            "Queried name": "youtube.com.", 
+            "Type": "A", 
+            "Data": "198.231.29.57", 
+            "TTL": "299"
+          }, 
+          {
+            "Queried name": "youtube.com.", 
+            "Type": "A", 
+            "Data": "198.231.29.59", 
+            "TTL": "299"
+          }, 
+          {
+            "Queried name": "youtube.com.", 
+            "Type": "A", 
+            "Data": "198.231.29.15", 
+            "TTL": "299"
+          }, 
+          {
+            "Queried name": "youtube.com.", 
+            "Type": "A", 
+            "Data": "198.231.29.19", 
+            "TTL": "299"
+          }, 
+          {
+            "Queried name": "youtube.com.", 
+            "Type": "A", 
+            "Data": "198.231.29.23", 
+            "TTL": "299"
+          }, 
+          {
+            "Queried name": "youtube.com.", 
+            "Type": "A", 
+            "Data": "198.231.29.27", 
+            "TTL": "299"
+          }, 
+          {
+            "Queried name": "youtube.com.", 
+            "Type": "A", 
+            "Data": "198.231.29.29", 
+            "TTL": "299"
+          }, 
+          {
+            "Queried name": "youtube.com.", 
+            "Type": "A", 
+            "Data": "198.231.29.30", 
+            "TTL": "299"
+          }, 
+          {
+            "Queried name": "youtube.com.", 
+            "Type": "A", 
+            "Data": "198.231.29.34", 
+            "TTL": "299"
+          }, 
+          {
+            "Queried name": "youtube.com.", 
+            "Type": "A", 
+            "Data": "198.231.29.38", 
+            "TTL": "299"
+          }, 
+          {
+            "Queried name": "youtube.com.", 
+            "Type": "A", 
+            "Data": "198.231.29.42", 
+            "TTL": "299"
+          }, 
+          {
+            "Queried name": "youtube.com.", 
+            "Type": "A", 
+            "Data": "198.231.29.44", 
+            "TTL": "299"
+          }, 
+          {
+            "Queried name": "youtube.com.", 
+            "Type": "A", 
+            "Data": "198.231.29.45", 
+            "TTL": "299"
+          }, 
+          {
+            "Queried name": "youtube.com.", 
+            "Type": "A", 
+            "Data": "198.231.29.49", 
+            "TTL": "299"
+          }, 
+          {
+            "Queried name": "youtube.com.", 
+            "Type": "A", 
+            "Data": "198.231.29.53", 
+            "TTL": "299"
+          }, 
+          {
+            "Queried name": "ns1.google.com.", 
+            "Type": "A", 
+            "Data": "216.239.32.10", 
+            "TTL": "308980"
+          }, 
+          {
+            "Queried name": "ns2.google.com.", 
+            "Type": "A", 
+            "Data": "216.239.34.10", 
+            "TTL": "308980"
+          }, 
+          {
+            "Queried name": "ns3.google.com.", 
+            "Type": "A", 
+            "Data": "216.239.36.10", 
+            "TTL": "308980"
+          }, 
+          {
+            "Queried name": "ns4.google.com.", 
+            "Type": "A", 
+            "Data": "216.239.38.10", 
+            "TTL": "308980"
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Name": "youtube.com", 
+    "Success": true, 
+    "Queries": [
+      {
+        "Time in millis": "71", 
+        "Answers": [
+          {
+            "Queried name": "youtube.com.", 
+            "Type": "A", 
+            "Data": "198.231.29.45", 
+            "TTL": "299"
+          }, 
+          {
+            "Queried name": "youtube.com.", 
+            "Type": "A", 
+            "Data": "198.231.29.49", 
+            "TTL": "299"
+          }, 
+          {
+            "Queried name": "youtube.com.", 
+            "Type": "A", 
+            "Data": "198.231.29.53", 
+            "TTL": "299"
+          }, 
+          {
+            "Queried name": "youtube.com.", 
+            "Type": "A", 
+            "Data": "198.231.29.57", 
+            "TTL": "299"
+          }, 
+          {
+            "Queried name": "youtube.com.", 
+            "Type": "A", 
+            "Data": "198.231.29.59", 
+            "TTL": "299"
+          }, 
+          {
+            "Queried name": "youtube.com.", 
+            "Type": "A", 
+            "Data": "198.231.29.15", 
+            "TTL": "299"
+          }, 
+          {
+            "Queried name": "youtube.com.", 
+            "Type": "A", 
+            "Data": "198.231.29.19", 
+            "TTL": "299"
+          }, 
+          {
+            "Queried name": "youtube.com.", 
+            "Type": "A", 
+            "Data": "198.231.29.23", 
+            "TTL": "299"
+          }, 
+          {
+            "Queried name": "youtube.com.", 
+            "Type": "A", 
+            "Data": "198.231.29.27", 
+            "TTL": "299"
+          }, 
+          {
+            "Queried name": "youtube.com.", 
+            "Type": "A", 
+            "Data": "198.231.29.29", 
+            "TTL": "299"
+          }, 
+          {
+            "Queried name": "youtube.com.", 
+            "Type": "A", 
+            "Data": "198.231.29.30", 
+            "TTL": "299"
+          }, 
+          {
+            "Queried name": "youtube.com.", 
+            "Type": "A", 
+            "Data": "198.231.29.34", 
+            "TTL": "299"
+          }, 
+          {
+            "Queried name": "youtube.com.", 
+            "Type": "A", 
+            "Data": "198.231.29.38", 
+            "TTL": "299"
+          }, 
+          {
+            "Queried name": "youtube.com.", 
+            "Type": "A", 
+            "Data": "198.231.29.42", 
+            "TTL": "299"
+          }, 
+          {
+            "Queried name": "youtube.com.", 
+            "Type": "A", 
+            "Data": "198.231.29.44", 
+            "TTL": "299"
+          }, 
+          {
+            "Queried name": "ns1.google.com.", 
+            "Type": "A", 
+            "Data": "216.239.32.10", 
+            "TTL": "308980"
+          }, 
+          {
+            "Queried name": "ns2.google.com.", 
+            "Type": "A", 
+            "Data": "216.239.34.10", 
+            "TTL": "308980"
+          }, 
+          {
+            "Queried name": "ns3.google.com.", 
+            "Type": "A", 
+            "Data": "216.239.36.10", 
+            "TTL": "308980"
+          }, 
+          {
+            "Queried name": "ns4.google.com.", 
+            "Type": "A", 
+            "Data": "216.239.38.10", 
+            "TTL": "308980"
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Name": "facebook.com", 
+    "Success": true, 
+    "Queries": [
+      {
+        "Time in millis": "82", 
+        "Answers": [
+          {
+            "Queried name": "facebook.com.", 
+            "Type": "A", 
+            "Data": "31.13.70.36", 
             "TTL": "300"
           }
         ]
       }
     ]
+  }, 
+  {
+    "Name": "facebook.com", 
+    "Success": true, 
+    "Queries": [
+      {
+        "Time in millis": "71", 
+        "Answers": [
+          {
+            "Queried name": "facebook.com.", 
+            "Type": "A", 
+            "Data": "31.13.70.36", 
+            "TTL": "300"
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Name": "facebook.com", 
+    "Success": true, 
+    "Queries": [
+      {
+        "Time in millis": "70", 
+        "Answers": [
+          {
+            "Queried name": "facebook.com.", 
+            "Type": "A", 
+            "Data": "31.13.70.36", 
+            "TTL": "300"
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Name": "facebook.com", 
+    "Success": true, 
+    "Queries": [
+      {
+        "Time in millis": "70", 
+        "Answers": [
+          {
+            "Queried name": "facebook.com.", 
+            "Type": "A", 
+            "Data": "31.13.70.36", 
+            "TTL": "300"
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Name": "facebook.com", 
+    "Success": true, 
+    "Queries": [
+      {
+        "Time in millis": "71", 
+        "Answers": [
+          {
+            "Queried name": "facebook.com.", 
+            "Type": "A", 
+            "Data": "31.13.70.36", 
+            "TTL": "300"
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Name": "baidu.com", 
+    "Success": true, 
+    "Queries": [
+      {
+        "Time in millis": "71", 
+        "Answers": [
+          {
+            "Queried name": "baidu.com.", 
+            "Type": "A", 
+            "Data": "220.181.57.217", 
+            "TTL": "276"
+          }, 
+          {
+            "Queried name": "baidu.com.", 
+            "Type": "A", 
+            "Data": "111.13.101.208", 
+            "TTL": "276"
+          }, 
+          {
+            "Queried name": "baidu.com.", 
+            "Type": "A", 
+            "Data": "123.125.114.144", 
+            "TTL": "276"
+          }, 
+          {
+            "Queried name": "baidu.com.", 
+            "Type": "A", 
+            "Data": "180.149.132.47", 
+            "TTL": "276"
+          }, 
+          {
+            "Queried name": "dns.baidu.com.", 
+            "Type": "A", 
+            "Data": "202.108.22.220", 
+            "TTL": "10497"
+          }, 
+          {
+            "Queried name": "ns2.baidu.com.", 
+            "Type": "A", 
+            "Data": "61.135.165.235", 
+            "TTL": "10497"
+          }, 
+          {
+            "Queried name": "ns3.baidu.com.", 
+            "Type": "A", 
+            "Data": "220.181.37.10", 
+            "TTL": "10497"
+          }, 
+          {
+            "Queried name": "ns4.baidu.com.", 
+            "Type": "A", 
+            "Data": "220.181.38.10", 
+            "TTL": "10497"
+          }, 
+          {
+            "Queried name": "ns7.baidu.com.", 
+            "Type": "A", 
+            "Data": "119.75.219.82", 
+            "TTL": "86076"
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Name": "baidu.com", 
+    "Success": true, 
+    "Queries": [
+      {
+        "Time in millis": "71", 
+        "Answers": [
+          {
+            "Queried name": "baidu.com.", 
+            "Type": "A", 
+            "Data": "123.125.114.144", 
+            "TTL": "276"
+          }, 
+          {
+            "Queried name": "baidu.com.", 
+            "Type": "A", 
+            "Data": "180.149.132.47", 
+            "TTL": "276"
+          }, 
+          {
+            "Queried name": "baidu.com.", 
+            "Type": "A", 
+            "Data": "220.181.57.217", 
+            "TTL": "276"
+          }, 
+          {
+            "Queried name": "baidu.com.", 
+            "Type": "A", 
+            "Data": "111.13.101.208", 
+            "TTL": "276"
+          }, 
+          {
+            "Queried name": "dns.baidu.com.", 
+            "Type": "A", 
+            "Data": "202.108.22.220", 
+            "TTL": "10497"
+          }, 
+          {
+            "Queried name": "ns2.baidu.com.", 
+            "Type": "A", 
+            "Data": "61.135.165.235", 
+            "TTL": "10497"
+          }, 
+          {
+            "Queried name": "ns3.baidu.com.", 
+            "Type": "A", 
+            "Data": "220.181.37.10", 
+            "TTL": "10497"
+          }, 
+          {
+            "Queried name": "ns4.baidu.com.", 
+            "Type": "A", 
+            "Data": "220.181.38.10", 
+            "TTL": "10497"
+          }, 
+          {
+            "Queried name": "ns7.baidu.com.", 
+            "Type": "A", 
+            "Data": "119.75.219.82", 
+            "TTL": "86076"
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Name": "baidu.com", 
+    "Success": true, 
+    "Queries": [
+      {
+        "Time in millis": "70", 
+        "Answers": [
+          {
+            "Queried name": "baidu.com.", 
+            "Type": "A", 
+            "Data": "123.125.114.144", 
+            "TTL": "276"
+          }, 
+          {
+            "Queried name": "baidu.com.", 
+            "Type": "A", 
+            "Data": "180.149.132.47", 
+            "TTL": "276"
+          }, 
+          {
+            "Queried name": "baidu.com.", 
+            "Type": "A", 
+            "Data": "220.181.57.217", 
+            "TTL": "276"
+          }, 
+          {
+            "Queried name": "baidu.com.", 
+            "Type": "A", 
+            "Data": "111.13.101.208", 
+            "TTL": "276"
+          }, 
+          {
+            "Queried name": "dns.baidu.com.", 
+            "Type": "A", 
+            "Data": "202.108.22.220", 
+            "TTL": "10497"
+          }, 
+          {
+            "Queried name": "ns2.baidu.com.", 
+            "Type": "A", 
+            "Data": "61.135.165.235", 
+            "TTL": "10497"
+          }, 
+          {
+            "Queried name": "ns3.baidu.com.", 
+            "Type": "A", 
+            "Data": "220.181.37.10", 
+            "TTL": "10497"
+          }, 
+          {
+            "Queried name": "ns4.baidu.com.", 
+            "Type": "A", 
+            "Data": "220.181.38.10", 
+            "TTL": "10497"
+          }, 
+          {
+            "Queried name": "ns7.baidu.com.", 
+            "Type": "A", 
+            "Data": "119.75.219.82", 
+            "TTL": "86076"
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Name": "baidu.com", 
+    "Success": true, 
+    "Queries": [
+      {
+        "Time in millis": "71", 
+        "Answers": [
+          {
+            "Queried name": "baidu.com.", 
+            "Type": "A", 
+            "Data": "220.181.57.217", 
+            "TTL": "276"
+          }, 
+          {
+            "Queried name": "baidu.com.", 
+            "Type": "A", 
+            "Data": "111.13.101.208", 
+            "TTL": "276"
+          }, 
+          {
+            "Queried name": "baidu.com.", 
+            "Type": "A", 
+            "Data": "123.125.114.144", 
+            "TTL": "276"
+          }, 
+          {
+            "Queried name": "baidu.com.", 
+            "Type": "A", 
+            "Data": "180.149.132.47", 
+            "TTL": "276"
+          }, 
+          {
+            "Queried name": "dns.baidu.com.", 
+            "Type": "A", 
+            "Data": "202.108.22.220", 
+            "TTL": "10497"
+          }, 
+          {
+            "Queried name": "ns2.baidu.com.", 
+            "Type": "A", 
+            "Data": "61.135.165.235", 
+            "TTL": "10497"
+          }, 
+          {
+            "Queried name": "ns3.baidu.com.", 
+            "Type": "A", 
+            "Data": "220.181.37.10", 
+            "TTL": "10497"
+          }, 
+          {
+            "Queried name": "ns4.baidu.com.", 
+            "Type": "A", 
+            "Data": "220.181.38.10", 
+            "TTL": "10497"
+          }, 
+          {
+            "Queried name": "ns7.baidu.com.", 
+            "Type": "A", 
+            "Data": "119.75.219.82", 
+            "TTL": "86076"
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Name": "baidu.com", 
+    "Success": true, 
+    "Queries": [
+      {
+        "Time in millis": "70", 
+        "Answers": [
+          {
+            "Queried name": "baidu.com.", 
+            "Type": "A", 
+            "Data": "123.125.114.144", 
+            "TTL": "275"
+          }, 
+          {
+            "Queried name": "baidu.com.", 
+            "Type": "A", 
+            "Data": "180.149.132.47", 
+            "TTL": "275"
+          }, 
+          {
+            "Queried name": "baidu.com.", 
+            "Type": "A", 
+            "Data": "220.181.57.217", 
+            "TTL": "275"
+          }, 
+          {
+            "Queried name": "baidu.com.", 
+            "Type": "A", 
+            "Data": "111.13.101.208", 
+            "TTL": "275"
+          }, 
+          {
+            "Queried name": "dns.baidu.com.", 
+            "Type": "A", 
+            "Data": "202.108.22.220", 
+            "TTL": "10496"
+          }, 
+          {
+            "Queried name": "ns2.baidu.com.", 
+            "Type": "A", 
+            "Data": "61.135.165.235", 
+            "TTL": "10496"
+          }, 
+          {
+            "Queried name": "ns3.baidu.com.", 
+            "Type": "A", 
+            "Data": "220.181.37.10", 
+            "TTL": "10496"
+          }, 
+          {
+            "Queried name": "ns4.baidu.com.", 
+            "Type": "A", 
+            "Data": "220.181.38.10", 
+            "TTL": "10496"
+          }, 
+          {
+            "Queried name": "ns7.baidu.com.", 
+            "Type": "A", 
+            "Data": "119.75.219.82", 
+            "TTL": "86075"
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Name": "wikipedia.org", 
+    "Success": true, 
+    "Queries": [
+      {
+        "Time in millis": "70", 
+        "Answers": [
+          {
+            "Queried name": "wikipedia.org.", 
+            "Type": "A", 
+            "Data": "208.80.154.224", 
+            "TTL": "276"
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Name": "wikipedia.org", 
+    "Success": true, 
+    "Queries": [
+      {
+        "Time in millis": "75", 
+        "Answers": [
+          {
+            "Queried name": "wikipedia.org.", 
+            "Type": "A", 
+            "Data": "208.80.154.224", 
+            "TTL": "276"
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Name": "wikipedia.org", 
+    "Success": true, 
+    "Queries": [
+      {
+        "Time in millis": "72", 
+        "Answers": [
+          {
+            "Queried name": "wikipedia.org.", 
+            "Type": "A", 
+            "Data": "208.80.154.224", 
+            "TTL": "276"
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Name": "wikipedia.org", 
+    "Success": true, 
+    "Queries": [
+      {
+        "Time in millis": "71", 
+        "Answers": [
+          {
+            "Queried name": "wikipedia.org.", 
+            "Type": "A", 
+            "Data": "208.80.154.224", 
+            "TTL": "276"
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Name": "wikipedia.org", 
+    "Success": true, 
+    "Queries": [
+      {
+        "Time in millis": "70", 
+        "Answers": [
+          {
+            "Queried name": "wikipedia.org.", 
+            "Type": "A", 
+            "Data": "208.80.154.224", 
+            "TTL": "276"
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Name": "yahoo.com", 
+    "Success": false
+  }, 
+  {
+    "Name": "yahoo.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "yahoo.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "yahoo.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "yahoo.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "google.co.in", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "google.co.in", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "google.co.in", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "google.co.in", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "google.co.in", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "twitter.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "twitter.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "twitter.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "twitter.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "twitter.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "amazon.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "amazon.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "amazon.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "amazon.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "amazon.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "qq.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "qq.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "qq.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "qq.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "qq.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "live.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "live.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "live.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "live.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "live.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "google.co.jp", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "google.co.jp", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "google.co.jp", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "google.co.jp", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "google.co.jp", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "linkedin.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "linkedin.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "linkedin.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "linkedin.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "linkedin.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "taobao.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "taobao.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "taobao.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "taobao.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "taobao.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "vk.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "vk.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "vk.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "vk.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "vk.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "instagram.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "instagram.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "instagram.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "instagram.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "instagram.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "weibo.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "weibo.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "weibo.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "weibo.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "weibo.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "hao123.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "hao123.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "hao123.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "hao123.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "hao123.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "sina.com.cn", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "sina.com.cn", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "sina.com.cn", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "sina.com.cn", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "sina.com.cn", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "360.cn", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "360.cn", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "360.cn", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "360.cn", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "360.cn", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "sohu.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "sohu.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "sohu.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "sohu.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "sohu.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "google.de", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "google.de", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "google.de", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "google.de", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "google.de", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "yahoo.co.jp", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "yahoo.co.jp", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "yahoo.co.jp", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "yahoo.co.jp", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "yahoo.co.jp", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "yandex.ru", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "yandex.ru", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "yandex.ru", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "yandex.ru", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "yandex.ru", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "reddit.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "reddit.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "reddit.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "reddit.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "reddit.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "google.com.br", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "google.com.br", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "google.com.br", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "google.com.br", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "google.com.br", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "tmall.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "tmall.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "tmall.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "tmall.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "tmall.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "google.co.uk", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "google.co.uk", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "google.co.uk", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "google.co.uk", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "google.co.uk", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "google.fr", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "google.fr", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "google.fr", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "google.fr", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "google.fr", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "onclickads.net", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "onclickads.net", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "onclickads.net", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "onclickads.net", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "onclickads.net", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "t.co", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "t.co", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "t.co", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "t.co", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "t.co", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "ebay.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "ebay.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "ebay.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "ebay.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "ebay.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "wordpress.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "wordpress.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "wordpress.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "wordpress.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "wordpress.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "soso.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "soso.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "soso.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "soso.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "soso.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "bing.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "bing.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "bing.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "bing.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "bing.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "stackoverflow.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "stackoverflow.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "stackoverflow.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "stackoverflow.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "stackoverflow.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "tumblr.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "tumblr.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "tumblr.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "tumblr.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "tumblr.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "google.ru", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "google.ru", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "google.ru", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "google.ru", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "google.ru", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "google.it", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "google.it", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "google.it", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "google.it", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "google.it", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "blogspot.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "blogspot.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "blogspot.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "blogspot.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "blogspot.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "google.es", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "google.es", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "google.es", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "google.es", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "google.es", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "msn.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "msn.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "msn.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "msn.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "msn.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "apple.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "apple.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "apple.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "apple.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "apple.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "microsoft.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "microsoft.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "microsoft.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "microsoft.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "microsoft.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "pinterest.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "pinterest.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "pinterest.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "pinterest.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "pinterest.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "blogger.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "blogger.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "blogger.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "blogger.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "blogger.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "aliexpress.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "aliexpress.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "aliexpress.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "aliexpress.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "aliexpress.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "google.com.mx", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "google.com.mx", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "google.com.mx", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "google.com.mx", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "google.com.mx", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "netflix.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "netflix.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "netflix.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "netflix.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "netflix.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "paypal.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "paypal.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "paypal.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "paypal.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "paypal.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "mail.ru", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "mail.ru", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "mail.ru", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "mail.ru", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "mail.ru", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "github.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "github.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "github.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "github.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "github.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "imgur.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "imgur.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "imgur.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "imgur.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "imgur.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "imdb.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "imdb.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "imdb.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "imdb.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "imdb.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "gmw.cn", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "gmw.cn", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "gmw.cn", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "gmw.cn", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "gmw.cn", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "amazon.co.jp", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "amazon.co.jp", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "amazon.co.jp", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "amazon.co.jp", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "amazon.co.jp", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "ok.ru", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "ok.ru", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "ok.ru", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "ok.ru", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "ok.ru", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "popads.net", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "popads.net", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "popads.net", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "popads.net", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "popads.net", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "google.ca", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "google.ca", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "google.ca", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "google.ca", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "google.ca", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "google.com.hk", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "google.com.hk", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "google.com.hk", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "google.com.hk", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "google.com.hk", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "naver.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "naver.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "naver.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "naver.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "naver.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "whatsapp.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "whatsapp.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "whatsapp.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "whatsapp.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "whatsapp.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "google.co.kr", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "google.co.kr", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "google.co.kr", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "google.co.kr", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "google.co.kr", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "pornhub.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "pornhub.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "pornhub.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "pornhub.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "pornhub.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "amazon.in", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "amazon.in", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "amazon.in", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "amazon.in", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "amazon.in", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "office.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "office.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "office.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "office.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "office.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "cnzz.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "cnzz.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "cnzz.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "cnzz.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "cnzz.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "fc2.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "fc2.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "fc2.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "fc2.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "fc2.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "youku.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "youku.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "youku.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "youku.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "youku.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "google.co.id", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "google.co.id", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "google.co.id", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "google.co.id", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "google.co.id", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "dropbox.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "dropbox.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "dropbox.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "dropbox.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "dropbox.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "google.com.tr", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "google.com.tr", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "google.com.tr", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "google.com.tr", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "google.com.tr", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "isanalyze.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "isanalyze.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "isanalyze.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "isanalyze.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "isanalyze.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "xvideos.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "xvideos.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "xvideos.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "xvideos.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "xvideos.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "microsoftonline.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "microsoftonline.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "microsoftonline.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "microsoftonline.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "microsoftonline.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "youth.cn", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "youth.cn", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "youth.cn", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "youth.cn", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "youth.cn", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "google.pl", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "google.pl", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "google.pl", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "google.pl", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "google.pl", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "360.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "360.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "360.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "360.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "360.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "xhamster.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "xhamster.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "xhamster.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "xhamster.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "xhamster.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "google.com.au", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "google.com.au", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "google.com.au", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "google.com.au", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "google.com.au", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "google.com.tw", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "google.com.tw", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "google.com.tw", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "google.com.tw", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "google.com.tw", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "haosou.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "haosou.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "haosou.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "haosou.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "haosou.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "bongacams.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "bongacams.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "bongacams.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "bongacams.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "bongacams.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "xinhuanet.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "xinhuanet.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "xinhuanet.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "xinhuanet.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "xinhuanet.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "tianya.cn", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "tianya.cn", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "tianya.cn", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "tianya.cn", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "tianya.cn", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "adobe.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "adobe.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "adobe.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "adobe.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "adobe.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "quora.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "quora.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "quora.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "quora.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "quora.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "cnn.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "cnn.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "cnn.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "cnn.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "cnn.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "amazon.de", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "amazon.de", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "amazon.de", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "amazon.de", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "amazon.de", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "twitch.tv", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "twitch.tv", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "twitch.tv", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "twitch.tv", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "twitch.tv", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "flipkart.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "flipkart.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "flipkart.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "flipkart.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "flipkart.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "craigslist.org", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "craigslist.org", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "craigslist.org", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "craigslist.org", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "craigslist.org", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "wikia.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "wikia.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "wikia.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "wikia.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "wikia.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "pixnet.net", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "pixnet.net", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "pixnet.net", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "pixnet.net", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "pixnet.net", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "adf.ly", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "adf.ly", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "adf.ly", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "adf.ly", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "adf.ly", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "google.com.ar", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "google.com.ar", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "google.com.ar", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "google.com.ar", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "google.com.ar", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "alibaba.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "alibaba.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "alibaba.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "alibaba.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "alibaba.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "coccoc.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "coccoc.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "coccoc.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "coccoc.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "coccoc.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "google.com.eg", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "google.com.eg", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "google.com.eg", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "google.com.eg", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "google.com.eg", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "godaddy.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "godaddy.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "godaddy.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "godaddy.com", 
+    "Success": true, 
+    "Queries": []
+  }, 
+  {
+    "Name": "godaddy.com", 
+    "Success": true, 
+    "Queries": []
   }
 ]

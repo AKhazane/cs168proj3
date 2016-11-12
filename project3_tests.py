@@ -88,7 +88,7 @@ def tr_single_run_check(output, sites):
 
 
 def tr_part_a_check(text):
-    sites = ["google.com", "facebook.com", "www.berkeley.edu", "allspice.lcs.mit.edu", "todayhumor.co.kr", "www.city.kobe.lg.jp", "www.vutbr.cz", "zanvarsity.ac.tz"]
+    sites = ["google.com", "facebook.com", "www.berkeley.edu", "allspice.lcs.mit.edu", "todayhumor.co.kr", "www.city.kobe.lg.jp", "www.vutbr.cz", "41.204.128.169"]
 
     lines = text.split('\n')
 
